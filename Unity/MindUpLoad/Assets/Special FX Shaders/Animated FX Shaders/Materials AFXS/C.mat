@@ -8,17 +8,26 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: C
-  m_Shader: {fileID: 4800000, guid: d25492679ddc94a49b6992a162dd0232, type: 3}
+  m_Shader: {fileID: 4800000, guid: 8d2bb70cbf9db8d4da26e15b26e74248, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 3000
-  stringTagMap: {}
+  m_CustomRenderQueue: 2000
+  stringTagMap:
+    RenderType: Opaque
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _DisTex:
         m_Texture: {fileID: 2800000, guid: 8a48c44c70df3534c908db49c4e5888b, type: 3}
         m_Scale: {x: 2.67, y: 5.56}
@@ -29,6 +38,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _Emi2:
         m_Texture: {fileID: 2800000, guid: 18f47274418c2494ba18a73e4015ed22, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -47,23 +60,54 @@ Material:
         m_Texture: {fileID: 2800000, guid: 231c3fc889ef4cb498cd13a4c1d8b979, type: 3}
         m_Scale: {x: 3, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
     - _Alpha1: 0
     - _Alpha2: 0
     - _Alpha3: 0
+    - _AlphaClip: 0
     - _Bias: 2.02
     - _BiasDs: 2.02
     - _BiasMT: 1
     - _BiasMT2: 1
     - _BiasMT3: 1
+    - _Blend: 0
     - _Bri: 1
+    - _BumpScale: 1
     - _Con: 1.68
+    - _Cull: 2
+    - _Cutoff: 0.5
     - _DisTexType: 1
-    - _DstBlend: 10
+    - _DstBlend: 0
+    - _GlossinessSource: 0
     - _InvFade: 5
     - _Mode: 7
     - _Queue: 3000
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _Shininess: 0
+    - _Smoothness: 0.5
+    - _SmoothnessSource: 0
+    - _SpecSource: 0
+    - _SpecularHighlights: 1
     - _SrcBlend: 1
+    - _Surface: 0
+    - _ZWrite: 1
     - _ac: 0
     - _bright: 1
     - _dT: 1
@@ -89,7 +133,9 @@ Material:
     - _tTA: 0
     - _tTAE: 0
     m_Colors:
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _MainColor: {r: 1, g: 0.49019608, b: 0, a: 1}
     - _Pan1: {r: 1, g: 0, b: 0, a: 0}
     - _Pan2: {r: 0, g: 0, b: 0, a: 0}
@@ -107,8 +153,23 @@ Material:
     - _Scale2: {r: 1, g: 1, b: 0.5, a: 0.5}
     - _Scale3: {r: 1, g: 1, b: 0.5, a: 0.5}
     - _ScaleDis: {r: 1, g: 1, b: 0.5, a: 0.5}
+    - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
     - _Tile1: {r: 1, g: 1, b: 0, a: 0}
     - _Tile2: {r: 1, g: 1, b: 0, a: 0}
     - _Tile3: {r: 1, g: 1, b: 0, a: 0}
     - _TileDs: {r: 1, g: 1, b: 0, a: 0}
     - _TintColor: {r: 1, g: 0.49019608, b: 0, a: 0.49803922}
+  m_BuildTextureStacks: []
+--- !u!114 &9197386540187674722
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 4

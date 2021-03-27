@@ -4,20 +4,26 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: Part
-  m_Shader: {fileID: 4800000, guid: ba204f34246245a489526486b90990fb, type: 3}
+  m_Shader: {fileID: 4800000, guid: 650dd9526735d5b46b79224bc6e94025, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 3000
-  stringTagMap: {}
+  m_CustomRenderQueue: 2000
+  stringTagMap:
+    RenderType: Opaque
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _Emi1:
         m_Texture: {fileID: 2800000, guid: f0f24b6f678e62a4592ef0818adc4a6d, type: 3}
         m_Scale: {x: 1, y: 2}
@@ -27,9 +33,9 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: f0f24b6f678e62a4592ef0818adc4a6d, type: 3}
-        m_Scale: {x: 1, y: 2}
-        m_Offset: {x: 0, y: -1}
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _MainTex2:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -46,14 +52,22 @@ Material:
     - _Alpha1: 0
     - _Alpha2: 0
     - _Alpha3: 0
+    - _AlphaClip: 0
     - _Bias: 0
+    - _Blend: 0
     - _Bri: 0
     - _Con: 1
-    - _DstBlend: 10
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DstBlend: 0
     - _InvFade: 5
     - _Mode: 7
     - _Queue: 3000
+    - _QueueOffset: 0
+    - _SampleGI: 0
     - _SrcBlend: 1
+    - _Surface: 0
+    - _ZWrite: 1
     - _ac: 0
     - _bright: 1
     - _fT: 1
@@ -76,6 +90,7 @@ Material:
     - _tTA: 0
     - _tTAE: 0
     m_Colors:
+    - _BaseColor: {r: 0, g: 0.8396226, b: 0.3709942, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _MainColor: {r: 1, g: 0.49019608, b: 0, a: 1}
     - _Pan1: {r: 0, g: 0.1, b: 0, a: 0}
@@ -90,3 +105,17 @@ Material:
     - _Tile2: {r: 1, g: 1, b: 0, a: 0}
     - _Tile3: {r: 1, g: 1, b: 0, a: 0}
     - _TintColor: {r: 1, g: 0.49019608, b: 0, a: 0.49803922}
+  m_BuildTextureStacks: []
+--- !u!114 &1540589701887220681
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 4
