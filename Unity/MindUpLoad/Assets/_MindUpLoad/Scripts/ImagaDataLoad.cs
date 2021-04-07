@@ -73,7 +73,7 @@ public class ImagaDataLoad : MonoBehaviour
         foreach (Texture2D texture in images)
         
         {
-            Vector3 imagePosition = new Vector3(Random.Range(0, 1024), Random.Range(0, 1024), Random.Range(0, 1024));
+            Vector3 imagePosition = new Vector3(Random.Range(0,5), Random.Range(0,5), Random.Range(0,5));
             RawImage newImageInstance = Instantiate(rawImagePrefab, imagePosition, Quaternion.Euler(new Vector3(0, 0, 0)), imageContainer.transform) as RawImage;
             newImageInstance.texture = texture;
             newImageInstance.SetNativeSize();
@@ -88,8 +88,8 @@ public class ImagaDataLoad : MonoBehaviour
         foreach (RawImage rawImage in rawImageList)
 
         {
-            rawImage.transform.DOLocalMoveX(Random.Range(0, 1024),1.0f).SetDelay(Random.Range(0,2.5f));
-            rawImage.transform.DORotate(new Vector3(0,0,0), 1.0f).SetDelay(Random.Range(0, 2.5f));
+            rawImage.transform.DOLocalMoveZ(Random.Range(0, 10),1.0f).SetDelay(Random.Range(0,2.5f));
+            rawImage.transform.DORotate(new Vector3(-90,90,0), 1.0f).SetDelay(Random.Range(0, 2.5f));
 
         }
 
