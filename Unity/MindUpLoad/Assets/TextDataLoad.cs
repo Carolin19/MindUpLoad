@@ -8,6 +8,8 @@ using DG.Tweening;
 
 public class TextDataLoad : MonoBehaviour
 {
+    [SerializeField] TMPro.TextMeshProUGUI uiNamePersona;
+    [SerializeField] TMPro.TextMeshProUGUI uiBday;
 
     [SerializeField] TMPro.TextMeshProUGUI uiNameText;
 
