@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: metalicblackBrain
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
-  m_ShaderKeywords: _EMISSION _METALLICSPECGLOSSMAP _NORMALMAP
+  m_ShaderKeywords: _DETAIL_MULX2 _EMISSION _METALLICSPECGLOSSMAP _NORMALMAP
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -21,11 +21,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 0e00dc393d847b246b9ab08232d284df, type: 3}
+        m_Texture: {fileID: 2800000, guid: 41cfda0714187294cb7da71c73fb6320, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: f2fb9719ab71efc4cb689859868d57e1, type: 3}
+        m_Texture: {fileID: 2800000, guid: 287cece085881a84c9a51e4e0a3f1ed9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -37,7 +37,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailNormalMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 287cece085881a84c9a51e4e0a3f1ed9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
@@ -45,7 +45,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 0e00dc393d847b246b9ab08232d284df, type: 3}
+        m_Texture: {fileID: 2800000, guid: 41cfda0714187294cb7da71c73fb6320, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -85,7 +85,7 @@ Material:
     - _Cull: 2
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
-    - _DetailNormalMapScale: 1
+    - _DetailNormalMapScale: 0.38
     - _DstBlend: 0
     - _EnvironmentReflections: 1
     - _GlossMapScale: 0
