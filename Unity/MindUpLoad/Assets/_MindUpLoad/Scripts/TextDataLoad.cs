@@ -8,12 +8,12 @@ using DG.Tweening;
 
 public class TextDataLoad : MonoBehaviour
 {
-    [SerializeField] TMPro.TextMeshProUGUI uiNamePersona;
-    [SerializeField] TMPro.TextMeshProUGUI uiBday;
+   
 
     [SerializeField] TMPro.TextMeshProUGUI uiNameText;
 
-    string fileLocation = "C:/Users/Carolin/Google Drive/XOrdner/GoogleText/googletext.txt";
+
+    [SerializeField] string fileLocation;
 
     public IEnumerator Start()
     {
@@ -45,10 +45,7 @@ public class TextDataLoad : MonoBehaviour
         else
         {
             //success
-            Debug.Log("Erfolg");
-            Debug.Log(request.downloadHandler.text);
-            StartCoroutine(
-                "LoadTextOnCanvas", request.downloadHandler.text);
+            StartCoroutine("LoadTextOnCanvas", request.downloadHandler.text);
                 
         }
 #pragma warning restore CS0618 // Type or member is obsolete

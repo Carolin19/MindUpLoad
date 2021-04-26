@@ -690,7 +690,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 51a576e66ad703446bbf5b84532bcf4f,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 51a576e66ad703446bbf5b84532bcf4f, type: 3}
@@ -2752,6 +2752,7 @@ GameObject:
   - component: {fileID: 112585251}
   - component: {fileID: 112585253}
   - component: {fileID: 112585252}
+  - component: {fileID: 112585254}
   m_Layer: 0
   m_Name: 'TextName (TMP) '
   m_TagString: Untagged
@@ -2892,6 +2893,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 112585250}
   m_CullTransparentMesh: 1
+--- !u!114 &112585254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112585250}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b31fa1a3938a29f45870c61d2874ffb2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  uiNameText: {fileID: 112585252}
+  fileLocation: C:\Users\Carolin\Google Drive\XOrdner\persontextdata\vorname_nachname\vorname_nachname.txt
 --- !u!1001 &120083179
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10934,7 +10949,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 51a576e66ad703446bbf5b84532bcf4f,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 51a576e66ad703446bbf5b84532bcf4f, type: 3}
@@ -34470,9 +34485,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b31fa1a3938a29f45870c61d2874ffb2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uiNamePersona: {fileID: 0}
-  uiBday: {fileID: 0}
   uiNameText: {fileID: 329312112}
+  fileLocation: C:/Users/Carolin/Google Drive/XOrdner/GoogleText/googletext.txt
 --- !u!1001 &1537390180
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -36222,7 +36236,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 51a576e66ad703446bbf5b84532bcf4f,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 51a576e66ad703446bbf5b84532bcf4f, type: 3}
@@ -43648,7 +43662,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1937821612}
-  - component: {fileID: 1937821613}
   m_Layer: 0
   m_Name: TextDataLoad (1)
   m_TagString: Untagged
@@ -43671,21 +43684,6 @@ Transform:
   m_Father: {fileID: 1285599601}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
---- !u!114 &1937821613
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1937821611}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b31fa1a3938a29f45870c61d2874ffb2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  uiNamePersona: {fileID: 112585252}
-  uiBday: {fileID: 1809412747}
-  uiNameText: {fileID: 112585252}
 --- !u!4 &1942117852 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 51a576e66ad703446bbf5b84532bcf4f,
