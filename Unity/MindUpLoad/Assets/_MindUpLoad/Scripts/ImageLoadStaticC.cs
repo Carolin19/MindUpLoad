@@ -7,7 +7,7 @@ using UnityEngine.Networking;
 using DG.Tweening;
 
 
-public class ImageLoadStatiC : MonoBehaviour
+public class ImageLoadStaticC : MonoBehaviour
 {
    
 
@@ -76,7 +76,7 @@ public class ImageLoadStatiC : MonoBehaviour
         foreach (Texture2D texture in images)
 
         {
-            Vector3 imagePosition = new Vector3(Random.Range(300,0), Random.Range(50, 0), Random.Range(400,0));
+            Vector3 imagePosition = new Vector3(Random.Range(-300,0), Random.Range(50, 0), Random.Range(-400,0));
             RawImage newImageInstance = Instantiate(rawImagePrefab, imagePosition, Quaternion.Euler(new Vector3(0, 0, 0)), imageContainer.transform) as RawImage;
             newImageInstance.texture = texture;
             newImageInstance.SetNativeSize();

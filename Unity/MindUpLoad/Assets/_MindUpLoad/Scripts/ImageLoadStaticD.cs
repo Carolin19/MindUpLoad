@@ -7,7 +7,7 @@ using UnityEngine.Networking;
 using DG.Tweening;
 
 
-public class ImageLoadStatiC : MonoBehaviour
+public class ImageLoadStaticD : MonoBehaviour
 {
    
 
@@ -87,6 +87,7 @@ public class ImageLoadStatiC : MonoBehaviour
         {
             rawImage.transform.DOScale(new Vector3(0.05f, 0.05f, 0.05f), 0);
             rawImage.transform.DORotate(new Vector3(-90, 90, 0), 0);
+
 
         }
     }

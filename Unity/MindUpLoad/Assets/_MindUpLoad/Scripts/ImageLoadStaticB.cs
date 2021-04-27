@@ -7,7 +7,7 @@ using UnityEngine.Networking;
 using DG.Tweening;
 
 
-public class ImageLoadStatiC : MonoBehaviour
+public class ImageLoadStaticB : MonoBehaviour
 {
    
 
