@@ -7,7 +7,7 @@ using UnityEngine.Networking;
 using DG.Tweening;
 
 
-public class ImageLoadStaticD : MonoBehaviour
+public class ImageLoadStaticRoomWall : MonoBehaviour
 {
    
 
@@ -76,8 +76,8 @@ public class ImageLoadStaticD : MonoBehaviour
         foreach (Texture2D texture in images)
 
         {
-            Vector3 imagePosition = new Vector3(Random.Range(300,0), Random.Range(50, 0), Random.Range(400,0));
-            RawImage newImageInstance = Instantiate(rawImagePrefab, imagePosition, Quaternion.Euler(new Vector3(0, 0, 0)), imageContainer.transform) as RawImage;
+          
+            RawImage newImageInstance = Instantiate(rawImagePrefab, new Vector3 (0,0,0), Quaternion.Euler(new Vector3(0, 0, 0)), imageContainer.transform) as RawImage;
             newImageInstance.texture = texture;
             newImageInstance.SetNativeSize();
             rawImageList.Add(newImageInstance);
@@ -85,9 +85,10 @@ public class ImageLoadStaticD : MonoBehaviour
         }
         foreach (RawImage rawImage in rawImageList)
         {
+            Vector3 imagePosition = new Vector3(Random.Range(300, 0), Random.Range(400, 0), Random.Range(40, 0));
+            rawImage.transform.localPosition = imagePosition;
             rawImage.transform.DOScale(new Vector3(0.05f, 0.05f, 0.05f), 0);
-            rawImage.transform.DORotate(new Vector3(-90, 90, 0), 0);
-
+            rawImage.transform.DOLocalRotate(new Vector3(0, 0, 90), 0);
 
         }
     }
