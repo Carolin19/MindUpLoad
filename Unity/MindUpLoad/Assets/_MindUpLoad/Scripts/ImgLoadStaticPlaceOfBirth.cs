@@ -7,7 +7,7 @@ using UnityEngine.Networking;
 using DG.Tweening;
 
 
-public class ImageLoadStaticRoomWall : MonoBehaviour
+public class ImgLoadStaticPlaceOfBirth : MonoBehaviour
 {
    
 
@@ -17,7 +17,7 @@ public class ImageLoadStaticRoomWall : MonoBehaviour
     private List<RawImage> rawImageList;
 
 
-    public string filesLocation = @"C:\Users\Carolin\Google Drive\XOrdner\GoogleImages\bildersuche1";
+    public string filesLocation = @"C:\Users\Carolin\Google Drive\XOrdner\wikiimg_placeofbirth";
     public List<Texture2D> images = new List<Texture2D>();
 
     private object texture;
@@ -85,9 +85,9 @@ public class ImageLoadStaticRoomWall : MonoBehaviour
         }
         foreach (RawImage rawImage in rawImageList)
         {
-            Vector3 imagePosition = new Vector3(Random.Range(300, 0), Random.Range(400, 0), Random.Range(40, 0));
+            Vector3 imagePosition = new Vector3(Random.Range(400, 0), Random.Range(300, 0), Random.Range(40, 0));
             rawImage.transform.localPosition = imagePosition;
-            rawImage.transform.DOScale(new Vector3(0.065f, 0.065f, 0.065f), 0);
+            rawImage.transform.DOScale(new Vector3(0.05f, 0.05f, 0.05f), 0);
             rawImage.transform.DOLocalRotate(new Vector3(0, 0, 90), 0);
 
         }
