@@ -29328,8 +29328,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1186874514}
-  m_LocalRotation: {x: -0.49838293, y: 0.49838293, z: 0.5016119, w: 0.5016119}
-  m_LocalPosition: {x: 1013, y: 6478.7, z: 1.8}
+  m_LocalRotation: {x: -0.5, y: 0.5, z: 0.5, w: 0.5}
+  m_LocalPosition: {x: 1013, y: 6494, z: -5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1070447184}
@@ -29337,7 +29337,7 @@ Transform:
   - {fileID: 1875231955}
   m_Father: {fileID: 1506940969}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: -89.63, y: 0, z: 90}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 90}
 --- !u!95 &1186874516
 Animator:
   serializedVersion: 3
@@ -48326,7 +48326,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1958788938}
-  - component: {fileID: 1958788939}
   - component: {fileID: 1958788940}
   m_Layer: 0
   m_Name: IdentityWallPS
@@ -48350,22 +48349,6 @@ Transform:
   m_Father: {fileID: 1257921087}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1958788939
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1958788937}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0de0ad5983818aa45b992cc6850c829b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  rawImagePrefab: {fileID: 485745830}
-  imageContainer: {fileID: 941887482}
-  filesLocation: C:\Users\Carolin\Google Drive\XOrdner\GoogleImages\bildersuche1
-  images: []
 --- !u!114 &1958788940
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48380,7 +48363,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rawImagePrefab: {fileID: 485745830}
   imageContainer: {fileID: 941887482}
-  filesLocation: C:\Users\Carolin\Google Drive\XOrdner\wikiimg_placeofbirth
+  filesLocation: C:\Users\Carolin\Google Drive\XOrdner\GoogleImages\bildersuche1
   images: []
 --- !u!4 &1960681327 stripped
 Transform:
@@ -50745,7 +50728,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 51a576e66ad703446bbf5b84532bcf4f,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 51a576e66ad703446bbf5b84532bcf4f, type: 3}

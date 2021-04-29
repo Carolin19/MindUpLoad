@@ -17,7 +17,7 @@ public class ImgLoadStaticPlaceOfBirth : MonoBehaviour
     private List<RawImage> rawImageList;
 
 
-    public string filesLocation = @"C:\Users\Carolin\Google Drive\XOrdner\wikiimg_placeofbirth";
+    public string filesLocation = @"C:\Users\Carolin\Google Drive\XOrdner\GoogleImages\bildersuche1";
     public List<Texture2D> images = new List<Texture2D>();
 
     private object texture;
