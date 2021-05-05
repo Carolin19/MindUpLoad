@@ -6,10 +6,9 @@ using UnityEngine.UI;
 using UnityEngine.Networking;
 using DG.Tweening;
 
-
-public class ImgLoadStaticPlaceOfBirth : MonoBehaviour
+public class InstagramIMGLoad : MonoBehaviour
 {
-   
+
 
     private string myFile;
     public RawImage rawImagePrefab;
@@ -17,7 +16,7 @@ public class ImgLoadStaticPlaceOfBirth : MonoBehaviour
     private List<RawImage> rawImageList;
 
 
-    public string filesLocation = @"‪C:\Users\Carolin\Google Drive\XOrdner\googleimg_geb_ort\googleimg_geb_ort";
+    public string filesLocation = @"‪C:\Users\Carolin\Google Drive\XOrdner\InstaPosts";
     public List<Texture2D> images = new List<Texture2D>();
 
     private object texture;
@@ -76,18 +75,18 @@ public class ImgLoadStaticPlaceOfBirth : MonoBehaviour
         foreach (Texture2D texture in images)
 
         {
-          
-            RawImage newImageInstance = Instantiate(rawImagePrefab, new Vector3 (0,0,0), Quaternion.Euler(new Vector3(0, 0, 0)), imageContainer.transform) as RawImage;
+
+            RawImage newImageInstance = Instantiate(rawImagePrefab, new Vector3(0, 0, 0), Quaternion.Euler(new Vector3(0, 0, 0)), imageContainer.transform) as RawImage;
             newImageInstance.texture = texture;
             newImageInstance.SetNativeSize();
             rawImageList.Add(newImageInstance);
-          
+
         }
         foreach (RawImage rawImage in rawImageList)
         {
             Vector3 imagePosition = new Vector3(Random.Range(50, 0), Random.Range(400, 0), Random.Range(5, 0));
             rawImage.transform.localPosition = imagePosition;
-            rawImage.transform.DOScale(new Vector3(0.005f, 0.005f, 0.005f), 0);
+            rawImage.transform.DOScale(new Vector3(0.065f, 0.065f, 0.065f), 0);
             rawImage.transform.DOLocalRotate(new Vector3(0, 0, 90), 0);
 
         }

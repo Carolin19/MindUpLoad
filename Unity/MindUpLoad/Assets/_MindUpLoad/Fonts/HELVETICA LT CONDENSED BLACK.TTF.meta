@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e5e22f6eb569b5a468c0a974acc6ce30
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Helvetica LT CondensedBlack
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 80c3f107f6164b74b884277d94ea396f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
