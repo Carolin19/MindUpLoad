@@ -40,7 +40,7 @@ public class TextDataLoad : MonoBehaviour
         if (request.isNetworkError)
         {
             //error
-            Debug.Log("testfail");
+            //Debug.Log("testfail");
         }
         else
         {
