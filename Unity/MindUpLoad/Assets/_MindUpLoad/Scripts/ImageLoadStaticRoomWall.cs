@@ -17,7 +17,7 @@ public class ImageLoadStaticRoomWall : MonoBehaviour
     private List<RawImage> rawImageList;
 
 
-    public string filesLocation = @"C:\Users\Carolin\Google Drive\XOrdner\GoogleImages\bildersuche1";
+    public string filesLocation = @"C:\Users\Carolin\Google Drive\XOrdner\googleimg_geb-ort";
     public List<Texture2D> images = new List<Texture2D>();
 
     private object texture;
