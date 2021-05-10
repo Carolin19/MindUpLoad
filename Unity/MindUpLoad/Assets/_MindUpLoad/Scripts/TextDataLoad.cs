@@ -39,22 +39,17 @@ public class TextDataLoad : MonoBehaviour
 
         if (request.isNetworkError)
         {
-            //error
-            //Debug.Log("testfail");
+          
         }
         else
         {
-            //success
-            StartCoroutine("LoadTextOnCanvas", request.downloadHandler.text);
-                
+          
+           
+            uiNameText.text = request.downloadHandler.text;
+               
         }
 #pragma warning restore CS0618 // Type or member is obsolete
 
     }
-
-    IEnumerator LoadTextOnCanvas(string text)
-    {
-        yield return uiNameText.text = text;
-
-    }
+  
 }
