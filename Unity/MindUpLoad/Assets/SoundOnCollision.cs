@@ -9,7 +9,7 @@ public class SoundOnCollision : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-     
+        
 
     }
 
@@ -20,8 +20,9 @@ public class SoundOnCollision : MonoBehaviour
     }
     private void OnTriggerEnter(Collider other)
     {
-        audioSource.Play();
         Debug.Log("Object Entered the trigger");
+        audioSource.Play();
+      
     }
 
 }
