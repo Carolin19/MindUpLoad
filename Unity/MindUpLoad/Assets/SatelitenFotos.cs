@@ -14,7 +14,7 @@ public GameObject imageContainer;
 private List<RawImage> rawImageList;
 
 
-public string filesLocation = @"C:\Users\Carolin\Google Drive\XOrdner\maps";
+public string filesLocation = @"C:\Users\Carolin\Google Drive\XOrdner\maps\hybrid";
 public List<Texture2D> images = new List<Texture2D>();
 
 private object texture;

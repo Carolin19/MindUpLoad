@@ -17,7 +17,7 @@ public class ImgLoadStaticPlaceOfBirth : MonoBehaviour
     private List<RawImage> rawImageList;
 
 
-    public string filesLocation = @"‪C:\Users\Carolin\Google Drive\XOrdner\googleimg_geb_ort\googleimg_geb_ort";
+    public string filesLocation = @"‪C:\Users\Carolin\Google Drive\XOrdner\googleimg_geb-ort";
     public List<Texture2D> images = new List<Texture2D>();
 
     private object texture;
@@ -87,7 +87,7 @@ public class ImgLoadStaticPlaceOfBirth : MonoBehaviour
         {
             Vector3 imagePosition = new Vector3(Random.Range(50, 0), Random.Range(400, 0), Random.Range(10, 0));
             rawImage.transform.localPosition = imagePosition;
-            rawImage.transform.DOScale(new Vector3(0.010f, 0.010f, 0.010f), 0);
+            rawImage.transform.DOScale(new Vector3(0.030f, 0.030f, 0.030f), 0);
             rawImage.transform.DOLocalRotate(new Vector3(0, 0, 90), 0);
 
         }
