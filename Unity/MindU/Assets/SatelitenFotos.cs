@@ -27,7 +27,7 @@ public IEnumerator Start()
     yield return StartCoroutine(
 
     "LoadAll",
-        value: Directory.GetFiles(filesLocation, "*.jpg", SearchOption.AllDirectories)
+        value: Directory.GetFiles(filesLocation, "*.png", SearchOption.AllDirectories)
     );
 
 
