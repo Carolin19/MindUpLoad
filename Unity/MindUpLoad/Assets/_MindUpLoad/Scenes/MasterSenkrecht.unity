@@ -576,6 +576,7 @@ Transform:
   m_PrefabInstance: {fileID: 2102212155}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &20888609
 GameObject:
@@ -720,6 +721,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &24432130
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -960,6 +963,7 @@ Transform:
   m_PrefabInstance: {fileID: 24873524}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &31313561
 =======
 --- !u!1 &29822869
@@ -1128,6 +1132,9 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 --- !u!1 &31736444
+=======
+--- !u!1 &31313561
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1135,30 +1142,30 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 31736445}
-  - component: {fileID: 31736447}
-  - component: {fileID: 31736446}
+  - component: {fileID: 31313562}
+  - component: {fileID: 31313563}
   m_Layer: 0
-  m_Name: Audio Source
+  m_Name: Audio Source (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &31736445
+--- !u!4 &31313562
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 31736444}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_GameObject: {fileID: 31313561}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 2412, z: -33}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 1517793734}
-  m_RootOrder: 0
+  m_Father: {fileID: 1927423992}
+  m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!136 &31736446
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -1175,11 +1182,15 @@ CapsuleCollider:
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!82 &31736447
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!82 &31313563
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 31313561}
   m_Enabled: 1
@@ -1193,6 +1204,13 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 3bda4e0228534dd43990cf681ec41316, type: 3}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_GameObject: {fileID: 31313561}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 6aa5630de5407e84b80018af8db18820, type: 3}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -1204,10 +1222,14 @@ AudioSource:
   DopplerLevel: 1
   MinDistance: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   MaxDistance: 21.7
 =======
   MaxDistance: 50
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  MaxDistance: 21.7
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -1496,6 +1518,7 @@ Transform:
   m_PrefabInstance: {fileID: 34576135}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &37970109
 GameObject:
@@ -1640,6 +1663,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!4 &39301924 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ff52f2e161b2209448460862c33acc05,
@@ -1808,6 +1833,7 @@ Transform:
   m_PrefabInstance: {fileID: 43968323}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &45457049
 GameObject:
@@ -1869,6 +1895,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 382554383}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &52539874
 GameObject:
   m_ObjectHideFlags: 0
@@ -2856,6 +2884,7 @@ CanvasRenderer:
   m_GameObject: {fileID: 79967768}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &84348808
 GameObject:
@@ -2917,6 +2946,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 665797612}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &86477839
 GameObject:
   m_ObjectHideFlags: 0
@@ -3096,6 +3127,7 @@ Transform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &88336922
 GameObject:
@@ -3240,6 +3272,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &92177989
 GameObject:
   m_ObjectHideFlags: 0
@@ -4245,6 +4279,7 @@ Transform:
   m_PrefabInstance: {fileID: 998076221}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &107294142
 GameObject:
@@ -4389,6 +4424,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &108189541
 GameObject:
   m_ObjectHideFlags: 0
@@ -4424,6 +4461,7 @@ Transform:
   m_Father: {fileID: 8408878656613987129}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 --- !u!1 &109012576
@@ -4545,6 +4583,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 29822872}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &114331599
 GameObject:
   m_ObjectHideFlags: 0
@@ -6197,6 +6237,7 @@ Transform:
   m_PrefabInstance: {fileID: 163681540}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &165728870
 GameObject:
@@ -6258,6 +6299,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 2104283458}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!4 &170407575 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7451315114512907890, guid: ad125f803a2dad14db9c59d5161e163d,
@@ -6540,6 +6583,7 @@ CanvasRenderer:
   m_GameObject: {fileID: 176231109}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &176821761
 GameObject:
@@ -6743,6 +6787,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &183151404
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8380,6 +8426,7 @@ Transform:
   m_PrefabInstance: {fileID: 215711825}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &220567759
 GameObject:
@@ -8524,6 +8571,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &223537300
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8913,7 +8962,238 @@ Transform:
   m_PrefabInstance: {fileID: 235454744}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &236101263
+=======
+--- !u!1 &236101263
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 236101264}
+  - component: {fileID: 236101265}
+  m_Layer: 0
+  m_Name: Audio Source (59)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &236101264
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 236101263}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -30.6, y: 4437.7, z: -16.4}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1927423992}
+  m_RootOrder: 59
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &236101265
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 236101263}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 90e864d3bf8c39d4cb08b42e3d662b22, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 21.7
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1.1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!1001 &238162277
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1875227770}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 520a64c3d899499409476a8bf1f7e1fa,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 520a64c3d899499409476a8bf1f7e1fa,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 520a64c3d899499409476a8bf1f7e1fa,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 520a64c3d899499409476a8bf1f7e1fa,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 520a64c3d899499409476a8bf1f7e1fa,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.02252266
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 520a64c3d899499409476a8bf1f7e1fa,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 520a64c3d899499409476a8bf1f7e1fa,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 520a64c3d899499409476a8bf1f7e1fa,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 520a64c3d899499409476a8bf1f7e1fa,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 520a64c3d899499409476a8bf1f7e1fa,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 520a64c3d899499409476a8bf1f7e1fa,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 520a64c3d899499409476a8bf1f7e1fa,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 520a64c3d899499409476a8bf1f7e1fa,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 520a64c3d899499409476a8bf1f7e1fa,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 520a64c3d899499409476a8bf1f7e1fa,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 291b440d16aaf1c429f930c77c3ada0e, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 520a64c3d899499409476a8bf1f7e1fa,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 79cc5d65ba999e04a98efd20bea5b456, type: 2}
+    - target: {fileID: 919132149155446097, guid: 520a64c3d899499409476a8bf1f7e1fa,
+        type: 3}
+      propertyPath: m_Name
+      value: brainLowPolyUnity (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 520a64c3d899499409476a8bf1f7e1fa, type: 3}
+--- !u!4 &238162278 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 520a64c3d899499409476a8bf1f7e1fa,
+    type: 3}
+  m_PrefabInstance: {fileID: 238162277}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &240904620
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -10024,6 +10304,7 @@ Transform:
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &270132127
 GameObject:
@@ -10144,6 +10425,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 1210672980}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &275820906
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10220,6 +10503,7 @@ Transform:
   m_PrefabInstance: {fileID: 275820906}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &276688159
 GameObject:
@@ -10281,6 +10565,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 1148430102}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &277647327
 GameObject:
   m_ObjectHideFlags: 0
@@ -10464,6 +10750,9 @@ Transform:
   m_PrefabInstance: {fileID: 283416096}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &283736445
 GameObject:
   m_ObjectHideFlags: 0
@@ -10718,8 +11007,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &287048105
 GameObject:
   m_ObjectHideFlags: 0
@@ -11148,6 +11440,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &293261694
 GameObject:
@@ -11493,6 +11786,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 636840470}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &297832833
 GameObject:
   m_ObjectHideFlags: 0
@@ -11893,6 +12188,9 @@ Transform:
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &306813158
 GameObject:
   m_ObjectHideFlags: 0
@@ -12020,8 +12318,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &307895155
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13366,6 +13667,7 @@ Transform:
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &346410451
 GameObject:
@@ -13510,6 +13812,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &346969438
 GameObject:
   m_ObjectHideFlags: 0
@@ -13711,6 +14015,7 @@ Transform:
   m_PrefabInstance: {fileID: 352470910}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &354892076
 GameObject:
@@ -13772,6 +14077,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 425673096}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!4 &358368192 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4521d8c6d1b1e62408e43507ffc2fc08,
@@ -14079,6 +14386,9 @@ Canvas:
   m_SortingOrder: 0
   m_TargetDisplay: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!4 &366289088 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4379921111732309219, guid: 56c610b079c5e6c49bc6b0f05852c34d,
@@ -14086,9 +14396,12 @@ Transform:
   m_PrefabInstance: {fileID: 231593954}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &369024811
+<<<<<<< HEAD
 =======
 --- !u!1 &366231742
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -14096,6 +14409,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 369024812}
   - component: {fileID: 369024813}
@@ -14108,21 +14422,32 @@ GameObject:
   m_Layer: 0
   m_Name: Audio Source
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  - component: {fileID: 369024812}
+  - component: {fileID: 369024813}
+  m_Layer: 0
+  m_Name: Audio Source (49)
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &369024812
 =======
 --- !u!4 &366231743
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!4 &369024812
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 369024811}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -14137,11 +14462,17 @@ Transform:
   m_GameObject: {fileID: 366231742}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+=======
+  m_GameObject: {fileID: 369024811}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 27, y: 4321, z: 66}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 2085076806}
-  m_RootOrder: 0
+  m_Father: {fileID: 1927423992}
+  m_RootOrder: 49
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!136 &366231744
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -14158,11 +14489,15 @@ CapsuleCollider:
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!82 &366231745
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!82 &369024813
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 369024811}
   m_Enabled: 1
@@ -14176,6 +14511,13 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: f89b2590e79b49a4da922f2ed3ef72ac, type: 3}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_GameObject: {fileID: 369024811}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 9b3dfd4cf7598124897c2af27a2f0007, type: 3}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -14187,10 +14529,14 @@ AudioSource:
   DopplerLevel: 1
   MinDistance: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   MaxDistance: 21.7
 =======
   MaxDistance: 50
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  MaxDistance: 21.7
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -14266,6 +14612,7 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!4 &366289088 stripped
 Transform:
@@ -14274,6 +14621,8 @@ Transform:
   m_PrefabInstance: {fileID: 231593954}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &370468574
 GameObject:
   m_ObjectHideFlags: 0
@@ -14489,6 +14838,7 @@ MeshFilter:
   m_GameObject: {fileID: 373245675}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &374495099
 GameObject:
@@ -14550,6 +14900,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 912385280}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &374747747
 GameObject:
   m_ObjectHideFlags: 0
@@ -14583,10 +14935,14 @@ Transform:
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &375475866
 =======
 --- !u!1 &376306679
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!1 &375475866
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -14594,6 +14950,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 375475867}
   - component: {fileID: 375475868}
@@ -14604,21 +14961,32 @@ GameObject:
   m_Layer: 0
   m_Name: 03StartTextLoadRight (1)
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  - component: {fileID: 375475867}
+  - component: {fileID: 375475868}
+  m_Layer: 0
+  m_Name: Audio Source (27)
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &375475867
 =======
 --- !u!4 &376306680
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!4 &375475867
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 375475866}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -14702,11 +15070,17 @@ Transform:
   m_GameObject: {fileID: 379056456}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+=======
+  m_GameObject: {fileID: 375475866}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 2889, z: -46}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 1464886245}
-  m_RootOrder: 0
+  m_Father: {fileID: 1927423992}
+  m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!136 &379056458
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -14723,11 +15097,15 @@ CapsuleCollider:
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!82 &379056459
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!82 &375475868
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 375475866}
   m_Enabled: 1
@@ -14741,6 +15119,13 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 55eac2c964adea542872d06b07e896de, type: 3}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_GameObject: {fileID: 375475866}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: bddb4f0a3a7e7834eb908b5cca77b6a8, type: 3}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -14752,10 +15137,14 @@ AudioSource:
   DopplerLevel: 1
   MinDistance: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   MaxDistance: 21.7
 =======
   MaxDistance: 50
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  MaxDistance: 21.7
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -14831,6 +15220,9 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &376306679
 GameObject:
   m_ObjectHideFlags: 0
@@ -14898,8 +15290,11 @@ Transform:
   m_Father: {fileID: 2041951023}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &379639129
 GameObject:
   m_ObjectHideFlags: 0
@@ -15086,10 +15481,14 @@ Transform:
   m_PrefabInstance: {fileID: 382427616}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &393763152
 =======
 --- !u!1 &382554380
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!1 &393763152
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -15097,6 +15496,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 393763153}
   - component: {fileID: 393763155}
@@ -15110,26 +15510,41 @@ GameObject:
   m_Layer: 0
   m_Name: Audio Source
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  - component: {fileID: 393763153}
+  - component: {fileID: 393763155}
+  - component: {fileID: 393763154}
+  m_Layer: 0
+  m_Name: Corner02.001
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &393763153
 =======
 --- !u!4 &382554381
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!4 &393763153
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_GameObject: {fileID: 393763152}
   m_LocalRotation: {x: -0.70710677, y: -0.7071069, z: 0.0000000031097862, w: -0.000000059604645}
   m_LocalPosition: {x: 0.35437182, y: 0.0077296025, z: -0.0031447283}
   m_LocalScale: {x: 0.01373782, y: 23.686977, z: 0.5704462}
+<<<<<<< HEAD
   m_Children: []
   m_Father: {fileID: 1220345992}
   m_RootOrder: 1
@@ -15141,17 +15556,25 @@ MeshRenderer:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_Children: []
-  m_Father: {fileID: 45457050}
-  m_RootOrder: 0
+  m_Father: {fileID: 1220345992}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!136 &382554382
 CapsuleCollider:
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!23 &393763154
+MeshRenderer:
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 393763152}
   m_Enabled: 1
@@ -15203,10 +15626,51 @@ MeshFilter:
 --- !u!82 &382554383
 AudioSource:
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_GameObject: {fileID: 393763152}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -268623866916373860, guid: 0173d34e2b8592d459a3a4df3f5c3ad7, type: 3}
+  - {fileID: 5055326426266523616, guid: 0173d34e2b8592d459a3a4df3f5c3ad7, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &393763155
+MeshFilter:
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 393763152}
   m_Mesh: {fileID: 1144630579352323910, guid: 0173d34e2b8592d459a3a4df3f5c3ad7, type: 3}
@@ -15304,6 +15768,11 @@ AudioSource:
     m_RotationOrder: 4
 --- !u!1 &383964163
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_GameObject: {fileID: 393763152}
+  m_Mesh: {fileID: 1144630579352323910, guid: 0173d34e2b8592d459a3a4df3f5c3ad7, type: 3}
+--- !u!1 &397279740
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -15311,6 +15780,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 397279741}
   - component: {fileID: 397279742}
@@ -15323,21 +15793,32 @@ GameObject:
   m_Layer: 0
   m_Name: Audio Source
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  - component: {fileID: 397279741}
+  - component: {fileID: 397279742}
+  m_Layer: 0
+  m_Name: Audio Source (6)
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &397279741
 =======
 --- !u!4 &383964164
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!4 &397279741
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 397279740}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -15352,11 +15833,17 @@ Transform:
   m_GameObject: {fileID: 383964163}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+=======
+  m_GameObject: {fileID: 397279740}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1272, z: -146}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 1985300312}
-  m_RootOrder: 0
+  m_Father: {fileID: 1927423992}
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!136 &383964165
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -15373,11 +15860,15 @@ CapsuleCollider:
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!82 &383964166
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!82 &397279742
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 397279740}
   m_Enabled: 1
@@ -15391,6 +15882,13 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: a8062562edbeb1540950a87fb0278d0c, type: 3}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_GameObject: {fileID: 397279740}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 13da09c40f1b9ec4c8a96df099e36a87, type: 3}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -15402,10 +15900,14 @@ AudioSource:
   DopplerLevel: 1
   MinDistance: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   MaxDistance: 118.52
 =======
   MaxDistance: 50
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  MaxDistance: 118.52
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -15480,6 +15982,7 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 --- !u!1 &389907613
@@ -15624,6 +16127,8 @@ MeshFilter:
   m_GameObject: {fileID: 393763152}
   m_Mesh: {fileID: 1144630579352323910, guid: 0173d34e2b8592d459a3a4df3f5c3ad7, type: 3}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &401156292
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15725,6 +16230,9 @@ Transform:
   m_PrefabInstance: {fileID: 401156292}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &403638565
 GameObject:
   m_ObjectHideFlags: 0
@@ -15852,8 +16360,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &404276095
 GameObject:
   m_ObjectHideFlags: 0
@@ -16277,6 +16788,7 @@ MonoBehaviour:
   m_RequiresColorTexture: 0
   m_Version: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &425100234
 GameObject:
@@ -16480,6 +16992,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &426254121
 GameObject:
   m_ObjectHideFlags: 0
@@ -16993,6 +17507,7 @@ Canvas:
   m_SortingOrder: 0
   m_TargetDisplay: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &440421649
 GameObject:
@@ -17054,6 +17569,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 445093435}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &441364994
 GameObject:
   m_ObjectHideFlags: 0
@@ -18033,6 +18550,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 445093433}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: -1168, z: -31}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -18045,6 +18563,13 @@ Transform:
   m_Children: []
   m_Father: {fileID: 440421650}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -1168, z: -31}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1927423992}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &445093435
@@ -18589,6 +19114,9 @@ Transform:
   m_PrefabInstance: {fileID: 466955186}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &467820611
 GameObject:
   m_ObjectHideFlags: 0
@@ -18716,8 +19244,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &468634706
 GameObject:
   m_ObjectHideFlags: 0
@@ -19181,6 +19712,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &483223084
 GameObject:
@@ -19242,6 +19774,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 1167551697}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &486543659
 GameObject:
   m_ObjectHideFlags: 0
@@ -19685,10 +20219,14 @@ MeshFilter:
   m_GameObject: {fileID: 524466407}
   m_Mesh: {fileID: -3923347035227963360, guid: cea36ce3e74e8d24a858e5910228cb2f, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &529182051
 =======
 --- !u!1 &531659448
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!1 &529182051
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -19696,6 +20234,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 529182052}
   - component: {fileID: 529182053}
@@ -19708,21 +20247,32 @@ GameObject:
   m_Layer: 0
   m_Name: F2.5.D
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  - component: {fileID: 529182052}
+  - component: {fileID: 529182053}
+  m_Layer: 0
+  m_Name: Audio Source (29)
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &529182052
 =======
 --- !u!4 &531659449
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!4 &529182052
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 529182051}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -19738,12 +20288,17 @@ AudioSource:
   m_GameObject: {fileID: 531659448}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 291, y: 2411, z: -752}
+=======
+  m_GameObject: {fileID: 529182051}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 2903, z: 12}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 293261695}
+  m_Children: []
   m_Father: {fileID: 1927423992}
-  m_RootOrder: 6
+  m_RootOrder: 29
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!65 &531659450
 BoxCollider:
 >>>>>>> parent of 405c45a (Initial commit)
@@ -19852,18 +20407,113 @@ BoxCollider:
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &531659451
 MonoBehaviour:
+=======
+--- !u!82 &529182053
+AudioSource:
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 531659448}
+  m_GameObject: {fileID: 529182051}
   m_Enabled: 1
+<<<<<<< HEAD
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0fc7b50721e8a3d4ebc66ba757099a69, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   audioSource: {fileID: 293261697}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 012a0ad12d090fd4985a47b16ae7923c, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 21.7
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1.1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &532081866
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20172,6 +20822,9 @@ Transform:
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: -180, y: -180, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &540406247
 GameObject:
   m_ObjectHideFlags: 0
@@ -20299,8 +20952,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &543707972
 GameObject:
   m_ObjectHideFlags: 0
@@ -20866,6 +21522,9 @@ Transform:
   m_PrefabInstance: {fileID: 557934766}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &558819208
 GameObject:
   m_ObjectHideFlags: 0
@@ -20993,8 +21652,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &572548876
 GameObject:
   m_ObjectHideFlags: 0
@@ -21257,6 +21919,7 @@ Transform:
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: -180, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &586120094
 GameObject:
@@ -21318,6 +21981,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 837213891}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &586805577
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21826,6 +22491,7 @@ MeshFilter:
   m_GameObject: {fileID: 615851378}
   m_Mesh: {fileID: 2755886575340123833, guid: 0173d34e2b8592d459a3a4df3f5c3ad7, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &617849395
 GameObject:
@@ -21970,6 +22636,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &617901497
 GameObject:
   m_ObjectHideFlags: 0
@@ -22212,6 +22880,7 @@ Canvas:
   m_SortingOrder: 0
   m_TargetDisplay: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &627259587
 GameObject:
@@ -22356,6 +23025,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &628967457
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23013,6 +23684,7 @@ Transform:
   m_PrefabInstance: {fileID: 636138837}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &636840467
 GameObject:
@@ -23157,6 +23829,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &636882397
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23258,6 +23932,9 @@ Transform:
   m_PrefabInstance: {fileID: 636882397}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &638343401
 GameObject:
   m_ObjectHideFlags: 0
@@ -23512,8 +24189,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &644844941
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23998,6 +24678,9 @@ VideoPlayer:
   m_FrameReadyEventEnabled: 0
   m_VideoShaders: []
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &652369183
 GameObject:
   m_ObjectHideFlags: 0
@@ -24125,8 +24808,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &655466883
 GameObject:
   m_ObjectHideFlags: 0
@@ -24391,6 +25077,7 @@ Transform:
   m_PrefabInstance: {fileID: 655523821}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &665797609
 GameObject:
@@ -24535,6 +25222,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &665812667
 GameObject:
   m_ObjectHideFlags: 0
@@ -24645,6 +25334,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 678622144}
   m_CullTransparentMesh: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 --- !u!1 &684048331
@@ -24790,6 +25480,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &686311983
 GameObject:
   m_ObjectHideFlags: 0
@@ -25181,6 +25873,9 @@ MeshFilter:
   m_GameObject: {fileID: 687224559}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &689819402
 GameObject:
   m_ObjectHideFlags: 0
@@ -25308,8 +26003,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &690623215
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25385,6 +26083,7 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 690623215}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 --- !u!1 &692503752
@@ -25506,6 +26205,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 627259590}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &695096978
 GameObject:
   m_ObjectHideFlags: 0
@@ -25720,6 +26421,7 @@ MeshFilter:
   m_GameObject: {fileID: 695097037}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &697574729
 GameObject:
@@ -25781,6 +26483,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 20888612}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &697764654
 GameObject:
   m_ObjectHideFlags: 0
@@ -26014,6 +26718,7 @@ Transform:
   m_PrefabInstance: {fileID: 702830937}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &704643796
 GameObject:
@@ -26158,6 +26863,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &705583683
 GameObject:
   m_ObjectHideFlags: 0
@@ -26239,6 +26946,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 705583683}
   m_Mesh: {fileID: 6944655854633820393, guid: 0173d34e2b8592d459a3a4df3f5c3ad7, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 --- !u!1 &706077380
@@ -26384,6 +27092,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &707208937
 GameObject:
   m_ObjectHideFlags: 0
@@ -26785,6 +27495,9 @@ MeshFilter:
   m_GameObject: {fileID: 712123743}
   m_Mesh: {fileID: -5770416259252326503, guid: 0173d34e2b8592d459a3a4df3f5c3ad7, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &713168978
 GameObject:
   m_ObjectHideFlags: 0
@@ -26912,8 +27625,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &713539809
 GameObject:
   m_ObjectHideFlags: 0
@@ -27247,6 +27963,9 @@ Transform:
   m_PrefabInstance: {fileID: 716045396}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &723949608
 GameObject:
   m_ObjectHideFlags: 0
@@ -27374,8 +28093,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &724162606
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -27737,6 +28459,9 @@ CanvasRenderer:
   m_GameObject: {fileID: 725976734}
   m_CullTransparentMesh: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &726946379
 GameObject:
   m_ObjectHideFlags: 0
@@ -27864,8 +28589,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &728195045
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -27962,6 +28690,7 @@ Transform:
   m_PrefabInstance: {fileID: 728195045}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &729046861
 GameObject:
@@ -28023,6 +28752,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 183012322}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &730527916
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29078,6 +29809,9 @@ Canvas:
   m_SortingOrder: 0
   m_TargetDisplay: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &753935277
 GameObject:
   m_ObjectHideFlags: 0
@@ -29205,8 +29939,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &754663903
 GameObject:
   m_ObjectHideFlags: 0
@@ -29508,6 +30245,7 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4521d8c6d1b1e62408e43507ffc2fc08, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &760644479
 GameObject:
@@ -29569,6 +30307,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 814209196}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &762539201
 GameObject:
   m_ObjectHideFlags: 0
@@ -29598,12 +30338,17 @@ Transform:
   m_GameObject: {fileID: 762539201}
   m_LocalRotation: {x: 0.7071068, y: -0.7071068, z: -0, w: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 12.2, y: 180.6, z: -16.2}
   m_LocalScale: {x: 12.823009, y: 15.532672, z: 8.304857}
 =======
   m_LocalPosition: {x: 12.2, y: 170.6, z: -16.2}
   m_LocalScale: {x: 13.355309, y: 15.532672, z: 8.304857}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_LocalPosition: {x: 12.2, y: 180.6, z: -16.2}
+  m_LocalScale: {x: 12.823009, y: 15.532672, z: 8.304857}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_Children: []
   m_Father: {fileID: 2023333103}
   m_RootOrder: 0
@@ -29993,6 +30738,7 @@ Transform:
   m_PrefabInstance: {fileID: 766467074}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &767522501
 GameObject:
@@ -30054,6 +30800,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 346410454}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &769396324 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 2ce8ed98fcf2d7346be0c2bb6ec56b05,
@@ -30095,6 +30843,7 @@ VideoPlayer:
   m_WaitForFirstFrame: 1
   m_FrameReadyEventEnabled: 0
   m_VideoShaders: []
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 --- !u!1 &769886525
@@ -30240,6 +30989,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &770682496
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -30422,11 +31173,16 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
 <<<<<<< HEAD
+<<<<<<< HEAD
       objectReference: {fileID: -1251457731659751925, guid: cfb715805b9a5ae46a58bb27a297e4a0,
         type: 3}
 =======
       objectReference: {fileID: 2100000, guid: 178c04d070faa514a8baac6708c88a87, type: 2}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+      objectReference: {fileID: -1251457731659751925, guid: cfb715805b9a5ae46a58bb27a297e4a0,
+        type: 3}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
     - target: {fileID: -7511558181221131132, guid: cfb715805b9a5ae46a58bb27a297e4a0,
         type: 3}
       propertyPath: m_Materials.Array.data[1]
@@ -30441,10 +31197,14 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1
 =======
       value: 0
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+      value: 1
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cfb715805b9a5ae46a58bb27a297e4a0, type: 3}
@@ -30543,6 +31303,7 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 775957544}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 --- !u!1 &779397424
@@ -30688,6 +31449,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &783674531
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -30987,6 +31750,9 @@ RectTransform:
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &787556929
 GameObject:
   m_ObjectHideFlags: 0
@@ -31114,8 +31880,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &795831564
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -31206,6 +31975,7 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 56c610b079c5e6c49bc6b0f05852c34d, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &801708389
 GameObject:
@@ -31267,6 +32037,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 1593303782}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &802061015
 GameObject:
   m_ObjectHideFlags: 0
@@ -31434,10 +32206,14 @@ CanvasRenderer:
   m_GameObject: {fileID: 805728559}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &807483298
 =======
 --- !u!1 &814209193
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!1 &807483298
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -31445,6 +32221,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 807483299}
   - component: {fileID: 807483300}
@@ -31457,21 +32234,32 @@ GameObject:
   m_Layer: 0
   m_Name: Audio Source
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  - component: {fileID: 807483299}
+  - component: {fileID: 807483300}
+  m_Layer: 0
+  m_Name: Audio Source (16)
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &807483299
 =======
 --- !u!4 &814209194
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!4 &807483299
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 807483298}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -31486,11 +32274,17 @@ Transform:
   m_GameObject: {fileID: 814209193}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+=======
+  m_GameObject: {fileID: 807483298}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 2156, z: -4.5}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 760644480}
-  m_RootOrder: 0
+  m_Father: {fileID: 1927423992}
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!136 &814209195
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -31507,11 +32301,15 @@ CapsuleCollider:
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!82 &814209196
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!82 &807483300
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 807483298}
   m_Enabled: 1
@@ -31525,6 +32323,13 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: c19cdbf279ea7584094fff065ce7d816, type: 3}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_GameObject: {fileID: 807483298}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: f89b2590e79b49a4da922f2ed3ef72ac, type: 3}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -31536,10 +32341,14 @@ AudioSource:
   DopplerLevel: 1
   MinDistance: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   MaxDistance: 21.7
 =======
   MaxDistance: 50
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  MaxDistance: 21.7
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -31892,6 +32701,9 @@ Canvas:
   m_SortingOrder: 0
   m_TargetDisplay: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &820765073
 GameObject:
   m_ObjectHideFlags: 0
@@ -32019,8 +32831,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &820809444
 GameObject:
   m_ObjectHideFlags: 0
@@ -32257,6 +33072,7 @@ Transform:
   m_PrefabInstance: {fileID: 820809565}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &822114226
 GameObject:
@@ -32318,6 +33134,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 1748357294}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &826561996
 GameObject:
   m_ObjectHideFlags: 0
@@ -32481,6 +33299,9 @@ Transform:
   m_PrefabInstance: {fileID: 1210185129}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &838553729
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32577,9 +33398,12 @@ Transform:
   m_PrefabInstance: {fileID: 838553729}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &843102582
+<<<<<<< HEAD
 =======
 --- !u!1 &837213888
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -32587,6 +33411,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 843102583}
   - component: {fileID: 843102584}
@@ -32599,21 +33424,32 @@ GameObject:
   m_Layer: 0
   m_Name: Audio Source
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  - component: {fileID: 843102583}
+  - component: {fileID: 843102584}
+  m_Layer: 0
+  m_Name: Audio Source (36)
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &843102583
 =======
 --- !u!4 &837213889
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!4 &843102583
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 843102582}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -32628,11 +33464,17 @@ Transform:
   m_GameObject: {fileID: 837213888}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+=======
+  m_GameObject: {fileID: 843102582}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 4170, z: 26}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 586120095}
-  m_RootOrder: 0
+  m_Father: {fileID: 1927423992}
+  m_RootOrder: 36
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!136 &837213890
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -32649,11 +33491,15 @@ CapsuleCollider:
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!82 &837213891
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!82 &843102584
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 843102582}
   m_Enabled: 1
@@ -32667,6 +33513,13 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: bff3e02b1661f96418b7be8cc18f5243, type: 3}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_GameObject: {fileID: 843102582}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: eb7f70d0759d96942b51370016b5ac56, type: 3}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -32678,10 +33531,14 @@ AudioSource:
   DopplerLevel: 1
   MinDistance: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   MaxDistance: 21.7
 =======
   MaxDistance: 50
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  MaxDistance: 21.7
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -32756,6 +33613,7 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 --- !u!1001 &838553729
@@ -32854,6 +33712,8 @@ Transform:
   m_PrefabInstance: {fileID: 838553729}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &844852245
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32954,6 +33814,7 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 844852245}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 --- !u!1 &852670019
@@ -33099,6 +33960,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &855979962
 GameObject:
   m_ObjectHideFlags: 0
@@ -33524,6 +34387,7 @@ CanvasRenderer:
   m_GameObject: {fileID: 868136842}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &869981417
 GameObject:
@@ -33585,6 +34449,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 1167994058}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &870528607
 GameObject:
   m_ObjectHideFlags: 0
@@ -34064,10 +34930,14 @@ MeshFilter:
   m_GameObject: {fileID: 877225463}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &878444389
 =======
 --- !u!1 &878837318
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!1 &878444389
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -34075,6 +34945,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 878444390}
   - component: {fileID: 878444391}
@@ -34087,21 +34958,32 @@ GameObject:
   m_Layer: 0
   m_Name: 2.1.AI
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  - component: {fileID: 878444390}
+  - component: {fileID: 878444391}
+  m_Layer: 0
+  m_Name: Audio Source (30)
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &878444390
 =======
 --- !u!4 &878837319
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!4 &878444390
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 878444389}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -34117,12 +34999,17 @@ AudioSource:
   m_GameObject: {fileID: 878837318}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 810, y: 2322, z: 0}
+=======
+  m_GameObject: {fileID: 878444389}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 3082, z: -57}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 706077381}
+  m_Children: []
   m_Father: {fileID: 1927423992}
-  m_RootOrder: 1
+  m_RootOrder: 30
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!114 &878837320
 MonoBehaviour:
 >>>>>>> parent of 405c45a (Initial commit)
@@ -34231,18 +35118,111 @@ MonoBehaviour:
   audioSource: {fileID: 706077383}
 --- !u!65 &878837321
 BoxCollider:
+=======
+--- !u!82 &878444391
+AudioSource:
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 878837318}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_GameObject: {fileID: 878444389}
   m_Enabled: 1
+<<<<<<< HEAD
   serializedVersion: 2
   m_Size: {x: 100, y: 100, z: 100}
   m_Center: {x: 0, y: 0, z: 0}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: a8062562edbeb1540950a87fb0278d0c, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 21.7
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1.1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &884046462
 GameObject:
   m_ObjectHideFlags: 0
@@ -34440,6 +35420,9 @@ Transform:
   m_PrefabInstance: {fileID: 884197760}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &885314568
 GameObject:
   m_ObjectHideFlags: 0
@@ -34567,8 +35550,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &885839700
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35570,6 +36556,9 @@ MeshFilter:
   m_GameObject: {fileID: 906290263}
   m_Mesh: {fileID: -4207771942863140496, guid: 0173d34e2b8592d459a3a4df3f5c3ad7, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &908340312
 GameObject:
   m_ObjectHideFlags: 0
@@ -35697,8 +36686,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!4 &908550033 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7451315114512907890, guid: ad125f803a2dad14db9c59d5161e163d,
@@ -35706,10 +36698,14 @@ Transform:
   m_PrefabInstance: {fileID: 956417753}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &910744525
 =======
 --- !u!1 &912385277
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!1 &910744525
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -35717,6 +36713,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 910744526}
   - component: {fileID: 910744527}
@@ -35729,21 +36726,32 @@ GameObject:
   m_Layer: 0
   m_Name: Audio Source
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  - component: {fileID: 910744526}
+  - component: {fileID: 910744527}
+  m_Layer: 0
+  m_Name: Audio Source (23)
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &910744526
 =======
 --- !u!4 &912385278
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!4 &910744526
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 910744525}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -35758,11 +36766,17 @@ Transform:
   m_GameObject: {fileID: 912385277}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+=======
+  m_GameObject: {fileID: 910744525}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 2500.1, z: -18}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 374495100}
-  m_RootOrder: 0
+  m_Father: {fileID: 1927423992}
+  m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!136 &912385279
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -35779,11 +36793,15 @@ CapsuleCollider:
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!82 &912385280
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!82 &910744527
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 910744525}
   m_Enabled: 1
@@ -35797,6 +36815,13 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 33cbfaba800296049bffa9effb6f9a40, type: 3}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_GameObject: {fileID: 910744525}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: a25905a702d3f8b4abbdd99a5adf7fc2, type: 3}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -35808,10 +36833,14 @@ AudioSource:
   DopplerLevel: 1
   MinDistance: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   MaxDistance: 21.7
 =======
   MaxDistance: 50
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  MaxDistance: 21.7
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -36068,6 +37097,9 @@ MeshFilter:
   m_GameObject: {fileID: 914632774}
   m_Mesh: {fileID: -6746371210878880466, guid: cea36ce3e74e8d24a858e5910228cb2f, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &925231213
 GameObject:
   m_ObjectHideFlags: 0
@@ -36195,8 +37227,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &926623319
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -36536,6 +37571,7 @@ Transform:
   m_PrefabInstance: {fileID: 935615305}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &937305763
 GameObject:
@@ -36597,6 +37633,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 2031638881}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!4 &937956809 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4521d8c6d1b1e62408e43507ffc2fc08,
@@ -36704,6 +37742,7 @@ Transform:
   m_PrefabInstance: {fileID: 939806197}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &940295418
 GameObject:
@@ -36765,6 +37804,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 37970112}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &941522431
 GameObject:
   m_ObjectHideFlags: 0
@@ -36898,10 +37939,14 @@ MeshFilter:
   m_GameObject: {fileID: 941522431}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &945638366
 =======
 --- !u!1 &945132132
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!1 &945638366
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -36909,6 +37954,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 945638367}
   - component: {fileID: 945638368}
@@ -36921,21 +37967,32 @@ GameObject:
   m_Layer: 0
   m_Name: F3.2.D
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  - component: {fileID: 945638367}
+  - component: {fileID: 945638368}
+  m_Layer: 0
+  m_Name: Audio Source (11)
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &945638367
 =======
 --- !u!4 &945132133
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!4 &945638367
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 945638366}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -36951,12 +38008,17 @@ AudioSource:
   m_GameObject: {fileID: 945132132}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 291, y: 2411, z: -752}
+=======
+  m_GameObject: {fileID: 945638366}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1786, z: 12}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 107294143}
+  m_Children: []
   m_Father: {fileID: 1927423992}
-  m_RootOrder: 10
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!65 &945132134
 BoxCollider:
 >>>>>>> parent of 405c45a (Initial commit)
@@ -37065,18 +38127,113 @@ BoxCollider:
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &945132135
 MonoBehaviour:
+=======
+--- !u!82 &945638368
+AudioSource:
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 945132132}
+  m_GameObject: {fileID: 945638366}
   m_Enabled: 1
+<<<<<<< HEAD
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0fc7b50721e8a3d4ebc66ba757099a69, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   audioSource: {fileID: 107294145}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 2aca50d416509054aadcfed2e00284cf, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 21.7
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1.1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &949720760
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -37790,6 +38947,7 @@ Transform:
   - {fileID: 1257921087}
   - {fileID: 1714296542}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 1395729894}
   - {fileID: 1765009474}
   m_Father: {fileID: 0}
@@ -37799,6 +38957,12 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  - {fileID: 1395729894}
+  - {fileID: 1765009474}
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &963288425
 GameObject:
@@ -37965,6 +39129,7 @@ MeshFilter:
   m_GameObject: {fileID: 963972324}
   m_Mesh: {fileID: 1144630579352323910, guid: 0173d34e2b8592d459a3a4df3f5c3ad7, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &965429210
 GameObject:
@@ -38109,6 +39274,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &966773948
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -39209,6 +40376,9 @@ MeshFilter:
   m_GameObject: {fileID: 986340010}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &988181979
 GameObject:
   m_ObjectHideFlags: 0
@@ -39336,8 +40506,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &990618272
 GameObject:
   m_ObjectHideFlags: 0
@@ -40150,6 +41323,9 @@ Transform:
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1026709394
 GameObject:
   m_ObjectHideFlags: 0
@@ -40277,8 +41453,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1030841211
 GameObject:
   m_ObjectHideFlags: 0
@@ -40770,10 +41949,14 @@ Transform:
   m_PrefabInstance: {fileID: 1037093587}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1044784328
 =======
 --- !u!1 &1044948257
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!1 &1044784328
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -40781,6 +41964,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 1044784329}
   - component: {fileID: 1044784330}
@@ -40793,21 +41977,32 @@ GameObject:
   m_Layer: 0
   m_Name: Audio Source
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  - component: {fileID: 1044784329}
+  - component: {fileID: 1044784330}
+  m_Layer: 0
+  m_Name: Audio Source (38)
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1044784329
 =======
 --- !u!4 &1044948258
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!4 &1044784329
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1044784328}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -40822,11 +42017,17 @@ Transform:
   m_GameObject: {fileID: 1044948257}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+=======
+  m_GameObject: {fileID: 1044784328}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 4241, z: -73}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 1825078188}
-  m_RootOrder: 0
+  m_Father: {fileID: 1927423992}
+  m_RootOrder: 38
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!136 &1044948259
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -40843,11 +42044,15 @@ CapsuleCollider:
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!82 &1044948260
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!82 &1044784330
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1044784328}
   m_Enabled: 1
@@ -40861,6 +42066,13 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 9af9f2f3da0deaf479ebe5c5120fa047, type: 3}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_GameObject: {fileID: 1044784328}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: df457273c55e96b44a3852b987962d42, type: 3}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -40872,10 +42084,14 @@ AudioSource:
   DopplerLevel: 1
   MinDistance: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   MaxDistance: 21.7
 =======
   MaxDistance: 50
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  MaxDistance: 21.7
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -41181,6 +42397,9 @@ MeshFilter:
   m_GameObject: {fileID: 1050620217}
   m_Mesh: {fileID: -6746371210878880466, guid: cea36ce3e74e8d24a858e5910228cb2f, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1051115470
 GameObject:
   m_ObjectHideFlags: 0
@@ -41308,8 +42527,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1051340486
 GameObject:
   m_ObjectHideFlags: 0
@@ -41601,6 +42823,7 @@ Transform:
   m_PrefabInstance: {fileID: 1056000048}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1060227176
 GameObject:
@@ -41745,6 +42968,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &1060592328
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -41941,6 +43166,9 @@ MeshFilter:
   m_GameObject: {fileID: 1061595615}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1064452641
 GameObject:
   m_ObjectHideFlags: 0
@@ -42068,8 +43296,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1070447182
 GameObject:
   m_ObjectHideFlags: 0
@@ -42711,6 +43942,7 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cfb715805b9a5ae46a58bb27a297e4a0, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1097070762
 GameObject:
@@ -42772,6 +44004,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 2042062803}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &1099504342
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -43978,10 +45212,14 @@ MeshFilter:
   m_GameObject: {fileID: 1135209478}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1138817169
 =======
 --- !u!1 &1136098149
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!1 &1138817169
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -43990,10 +45228,14 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   - component: {fileID: 1138817170}
   - component: {fileID: 1138817173}
   - component: {fileID: 1138817172}
   - component: {fileID: 1138817171}
+<<<<<<< HEAD
   m_Layer: 0
   m_Name: Cube (7)
 =======
@@ -44003,22 +45245,33 @@ GameObject:
   m_Layer: 0
   m_Name: F6.15.D
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_Layer: 0
+  m_Name: Cube (7)
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1138817170
 =======
 --- !u!4 &1136098150
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!4 &1138817170
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_GameObject: {fileID: 1138817169}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -17, y: 150.2, z: -32}
@@ -44026,6 +45279,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1408122897}
   m_RootOrder: 10
+<<<<<<< HEAD
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &1138817171
 =======
@@ -44040,11 +45294,16 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &1136098151
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1138817171
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1138817169}
   m_Material: {fileID: 0}
@@ -44057,19 +45316,28 @@ BoxCollider:
 MeshRenderer:
 =======
   m_GameObject: {fileID: 1136098149}
+=======
+  m_GameObject: {fileID: 1138817169}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 100, y: 100, z: 100}
+  m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!114 &1136098152
 MonoBehaviour:
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!23 &1138817172
+MeshRenderer:
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1138817169}
   m_Enabled: 1
@@ -44125,6 +45393,52 @@ MeshFilter:
   audioSource: {fileID: 2048506714}
 --- !u!1 &1138817169
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_GameObject: {fileID: 1138817169}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 32a76832b79e84347ad9df08b12709c3, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &1138817173
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1138817169}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1139532205
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -44133,10 +45447,14 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   - component: {fileID: 1139532206}
   - component: {fileID: 1139532209}
   - component: {fileID: 1139532208}
   - component: {fileID: 1139532207}
+<<<<<<< HEAD
   m_Layer: 0
   m_Name: Cube (6)
 =======
@@ -44147,21 +45465,30 @@ GameObject:
   m_Layer: 0
   m_Name: Cube (7)
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_Layer: 0
+  m_Name: Cube (6)
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1139532206
 =======
 --- !u!4 &1138817170
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!4 &1139532206
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1139532205}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -44174,25 +45501,36 @@ Transform:
 --- !u!65 &1139532207
 =======
   m_GameObject: {fileID: 1138817169}
+=======
+  m_GameObject: {fileID: 1139532205}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -17, y: 150.2, z: -32}
+  m_LocalPosition: {x: -56, y: 146.2, z: -25}
   m_LocalScale: {x: 10, y: 102.2483, z: 8}
   m_Children: []
   m_Father: {fileID: 1408122897}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!65 &1138817171
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!65 &1139532207
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1139532205}
 =======
   m_GameObject: {fileID: 1138817169}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_GameObject: {fileID: 1139532205}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
@@ -44200,15 +45538,20 @@ BoxCollider:
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!23 &1139532208
 =======
 --- !u!23 &1138817172
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!23 &1139532208
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1139532205}
 =======
@@ -44309,6 +45652,9 @@ MeshRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1139532205}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_GameObject: {fileID: 1139532205}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -44584,6 +45930,7 @@ MeshFilter:
   m_GameObject: {fileID: 1147091407}
   m_Mesh: {fileID: -8411013830098007818, guid: cea36ce3e74e8d24a858e5910228cb2f, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1148430099
 GameObject:
@@ -44728,6 +46075,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1152815536
 GameObject:
   m_ObjectHideFlags: 0
@@ -45381,10 +46730,14 @@ Transform:
   m_PrefabInstance: {fileID: 1167159047}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1168593551
 =======
 --- !u!1 &1167551694
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!1 &1168593551
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -45392,6 +46745,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 1168593552}
   - component: {fileID: 1168593554}
@@ -45405,26 +46759,41 @@ GameObject:
   m_Layer: 0
   m_Name: Audio Source
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  - component: {fileID: 1168593552}
+  - component: {fileID: 1168593554}
+  - component: {fileID: 1168593553}
+  m_Layer: 0
+  m_Name: House006.004
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1168593552
 =======
 --- !u!4 &1167551695
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!4 &1168593552
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_GameObject: {fileID: 1168593551}
   m_LocalRotation: {x: -0.000000029802322, y: 0.00000011920929, z: -0.7071067, w: 0.7071068}
   m_LocalPosition: {x: -0.0056500304, y: 0.023510747, z: -0.03381469}
   m_LocalScale: {x: 0.8194707, y: 0.31301627, z: 0.28792208}
+<<<<<<< HEAD
   m_Children: []
   m_Father: {fileID: 443135146}
   m_RootOrder: 4
@@ -45436,18 +46805,28 @@ MeshRenderer:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_Children: []
-  m_Father: {fileID: 483223085}
-  m_RootOrder: 0
+  m_Father: {fileID: 443135146}
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!136 &1167551696
 CapsuleCollider:
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!23 &1168593553
+MeshRenderer:
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_GameObject: {fileID: 1168593551}
   m_Enabled: 1
   m_CastShadows: 1
@@ -45485,10 +46864,53 @@ CapsuleCollider:
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!33 &1168593554
 MeshFilter:
+<<<<<<< HEAD
+=======
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1168593551}
+  m_Mesh: {fileID: -5723087645374634384, guid: 0173d34e2b8592d459a3a4df3f5c3ad7, type: 3}
+--- !u!1 &1168915736
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1168915737}
+  - component: {fileID: 1168915738}
+  m_Layer: 0
+  m_Name: Audio Source (53)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1168915737
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1168915736}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 27, y: 4372, z: 57}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1927423992}
+  m_RootOrder: 53
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &1168915738
+AudioSource:
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1168593551}
   m_Mesh: {fileID: -5723087645374634384, guid: 0173d34e2b8592d459a3a4df3f5c3ad7, type: 3}
 --- !u!1 &1168915736
@@ -45540,11 +46962,14 @@ AudioSource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_GameObject: {fileID: 1168915736}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: d3c922113ac49c24a92af4a3577be8dc, type: 3}
+<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 1167551694}
   m_Enabled: 1
@@ -45552,6 +46977,8 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: b7def0e2dcc90ff4d8b1544a6068ac4d, type: 3}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -45562,6 +46989,7 @@ AudioSource:
   Priority: 128
   DopplerLevel: 1
   MinDistance: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
   MaxDistance: 21.7
 =======
@@ -45711,6 +47139,9 @@ AudioSource:
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 50
+=======
+  MaxDistance: 21.7
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -45785,6 +47216,7 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 --- !u!1 &1168593551
 GameObject:
   m_ObjectHideFlags: 0
@@ -45867,6 +47299,8 @@ MeshFilter:
   m_GameObject: {fileID: 1168593551}
   m_Mesh: {fileID: -5723087645374634384, guid: 0173d34e2b8592d459a3a4df3f5c3ad7, type: 3}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1174684382
 GameObject:
   m_ObjectHideFlags: 0
@@ -46548,6 +47982,7 @@ Transform:
   m_PrefabInstance: {fileID: 1187319518}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1189568059
 GameObject:
@@ -46834,6 +48269,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &1193239204
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -47735,10 +49172,14 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff52f2e161b2209448460862c33acc05, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1211953201
 =======
 --- !u!1 &1210672977
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!1 &1211953201
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -47746,6 +49187,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 1211953202}
   - component: {fileID: 1211953203}
@@ -47758,21 +49200,32 @@ GameObject:
   m_Layer: 0
   m_Name: Audio Source
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  - component: {fileID: 1211953202}
+  - component: {fileID: 1211953203}
+  m_Layer: 0
+  m_Name: Audio Source (10)
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1211953202
 =======
 --- !u!4 &1210672978
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!4 &1211953202
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1211953201}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -47787,11 +49240,17 @@ Transform:
   m_GameObject: {fileID: 1210672977}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+=======
+  m_GameObject: {fileID: 1211953201}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1629, z: 12}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 272445316}
-  m_RootOrder: 0
+  m_Father: {fileID: 1927423992}
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!136 &1210672979
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -47808,11 +49267,15 @@ CapsuleCollider:
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!82 &1210672980
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!82 &1211953203
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1211953201}
   m_Enabled: 1
@@ -47826,6 +49289,13 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 0d4374045fef31247bf5758d3f667e75, type: 3}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_GameObject: {fileID: 1211953201}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 0b7221c60e693764e9046210a75dbfdf, type: 3}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -47837,10 +49307,14 @@ AudioSource:
   DopplerLevel: 1
   MinDistance: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   MaxDistance: 21.7
 =======
   MaxDistance: 50
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  MaxDistance: 21.7
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -48694,10 +50168,14 @@ MeshFilter:
   m_GameObject: {fileID: 1232377174}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1243799787
 =======
 --- !u!1 &1247237996
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!1 &1243799787
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -48705,6 +50183,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 1243799788}
   - component: {fileID: 1243799789}
@@ -48717,21 +50196,32 @@ GameObject:
   m_Layer: 0
   m_Name: F6.19.V3
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  - component: {fileID: 1243799788}
+  - component: {fileID: 1243799789}
+  m_Layer: 0
+  m_Name: Audio Source (46)
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1243799788
 =======
 --- !u!4 &1247237997
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!4 &1243799788
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1243799787}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -48747,12 +50237,17 @@ AudioSource:
   m_GameObject: {fileID: 1247237996}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 291, y: 2411, z: -752}
+=======
+  m_GameObject: {fileID: 1243799787}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 4311, z: 12}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 1380931355}
+  m_Children: []
   m_Father: {fileID: 1927423992}
-  m_RootOrder: 51
+  m_RootOrder: 46
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!65 &1247237998
 BoxCollider:
 >>>>>>> parent of 405c45a (Initial commit)
@@ -48761,6 +50256,146 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+  m_GameObject: {fileID: 1243799787}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: d1646832dac8743439f0e8fa315585bb, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 21.7
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1.1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!1 &1244867638
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1244867639}
+  - component: {fileID: 1244867640}
+  m_Layer: 0
+  m_Name: Audio Source (12)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1244867639
+Transform:
+=======
+--- !u!82 &1243799789
+AudioSource:
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1244867638}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1856, z: -45}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1927423992}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &1244867640
+AudioSource:
+=======
+  m_GameObject: {fileID: 1247237996}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 100, y: 100, z: 100}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1247237999
+MonoBehaviour:
+>>>>>>> parent of 405c45a (Initial commit)
+=======
   m_GameObject: {fileID: 1243799787}
   m_Enabled: 1
   serializedVersion: 4
@@ -48884,21 +50519,12 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &1244867640
 AudioSource:
-=======
-  m_GameObject: {fileID: 1247237996}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 100, y: 100, z: 100}
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &1247237999
-MonoBehaviour:
->>>>>>> parent of 405c45a (Initial commit)
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1244867638}
   m_Enabled: 1
@@ -48999,6 +50625,98 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 1380931357}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_GameObject: {fileID: 1244867638}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 111deca9c30a90048b59b3e571cedc4c, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 21.7
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1.1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &1249373569
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -50738,6 +52456,7 @@ Transform:
   m_PrefabInstance: {fileID: 1327946154}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1328726345
 GameObject:
@@ -50799,6 +52518,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 2020679507}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1334074416
 GameObject:
   m_ObjectHideFlags: 0
@@ -50832,6 +52553,7 @@ Transform:
   m_Father: {fileID: 1070447184}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 --- !u!1 &1336412392
@@ -51119,6 +52841,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &1344244824
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -52094,6 +53818,7 @@ Transform:
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1380931354
 GameObject:
@@ -52297,6 +54022,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 2054356884}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &1387665197
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -52711,10 +54438,14 @@ Transform:
   m_GameObject: {fileID: 1395729893}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 0, y: 0, z: 0}
 =======
   m_LocalPosition: {x: 916.99976, y: -1303.2734, z: 818}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1602239102}
@@ -52723,12 +54454,17 @@ Transform:
   - {fileID: 1896655193}
   - {fileID: 1927423992}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Father: {fileID: 960738939}
   m_RootOrder: 8
 =======
   m_Father: {fileID: 0}
   m_RootOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_Father: {fileID: 960738939}
+  m_RootOrder: 8
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1397244182
 PrefabInstance:
@@ -52920,6 +54656,9 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0612878775f445a409087ff071a4745e, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1407193091
 GameObject:
   m_ObjectHideFlags: 0
@@ -53047,8 +54786,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1408122896
 GameObject:
   m_ObjectHideFlags: 0
@@ -54417,6 +56159,9 @@ CanvasRenderer:
   m_GameObject: {fileID: 1454169604}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1454199063
 GameObject:
   m_ObjectHideFlags: 0
@@ -54544,8 +56289,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1462012490
 GameObject:
   m_ObjectHideFlags: 0
@@ -54780,10 +56528,14 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_IsActive: 0
 =======
   m_IsActive: 1
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_IsActive: 0
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!114 &1463815217
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54811,10 +56563,14 @@ Transform:
   m_GameObject: {fileID: 1463815216}
   m_LocalRotation: {x: -0.5, y: 0.5, z: 0.5, w: 0.5}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 933, y: 674.2, z: 801}
 =======
   m_LocalPosition: {x: 1957, y: -2470, z: 801}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_LocalPosition: {x: 933, y: 674.2, z: 801}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2024704875}
@@ -54911,6 +56667,7 @@ Transform:
   m_PrefabInstance: {fileID: 1464048812}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1464886244
 GameObject:
@@ -54972,6 +56729,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 379056459}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &1471657750
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -55242,6 +57001,7 @@ MonoBehaviour:
   uiNameText: {fileID: 1976577021}
   fileLocation: C:/Users/Carolin/Google Drive/XOrdner/GoogleText/googletext.txt
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1480944314
 GameObject:
@@ -55386,6 +57146,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1481343013
 GameObject:
   m_ObjectHideFlags: 0
@@ -55738,6 +57500,7 @@ Transform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 329.706, y: -11.449, z: -180.617}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1485936430
 GameObject:
@@ -55882,6 +57645,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &1490657182
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -56470,6 +58235,7 @@ Transform:
   m_PrefabInstance: {fileID: 1500321085}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1502928977
 GameObject:
@@ -56590,6 +58356,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 617849398}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &1506398362
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -56801,10 +58569,14 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_IsActive: 1
 =======
   m_IsActive: 0
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_IsActive: 1
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!4 &1506940969
 Transform:
   m_ObjectHideFlags: 0
@@ -57102,6 +58874,7 @@ Transform:
   m_PrefabInstance: {fileID: 1517420471}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1517793733
 GameObject:
@@ -57163,6 +58936,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 31736447}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &1518577503
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -57871,6 +59646,9 @@ MeshFilter:
   m_GameObject: {fileID: 1544410661}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1546038397
 GameObject:
   m_ObjectHideFlags: 0
@@ -57998,8 +59776,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1547519798
 GameObject:
   m_ObjectHideFlags: 0
@@ -58155,6 +59936,9 @@ Canvas:
   m_SortingOrder: 0
   m_TargetDisplay: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1552056798
 GameObject:
   m_ObjectHideFlags: 0
@@ -58282,8 +60066,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!4 &1555180198 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4379921111732309219, guid: 56c610b079c5e6c49bc6b0f05852c34d,
@@ -59039,10 +60826,14 @@ MonoBehaviour:
   m_RequiresColorTexture: 0
   m_Version: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1590082956
 =======
 --- !u!1 &1591243167
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!1 &1590082956
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -59050,6 +60841,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 1590082957}
   - component: {fileID: 1590082958}
@@ -59060,21 +60852,32 @@ GameObject:
   m_Layer: 0
   m_Name: CubeTunnel
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  - component: {fileID: 1590082957}
+  - component: {fileID: 1590082958}
+  m_Layer: 0
+  m_Name: Audio Source (13)
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1590082957
 =======
 --- !u!4 &1591243168
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!4 &1590082957
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1590082956}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -59127,11 +60930,17 @@ Transform:
   m_GameObject: {fileID: 1593303779}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+=======
+  m_GameObject: {fileID: 1590082956}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1900, z: 16}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 801708390}
-  m_RootOrder: 0
+  m_Father: {fileID: 1927423992}
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!136 &1593303781
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -59148,11 +60957,15 @@ CapsuleCollider:
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!82 &1593303782
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!82 &1590082958
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1590082956}
   m_Enabled: 1
@@ -59166,6 +60979,13 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 8ae1b1378c00c0640811cd00c5823b49, type: 3}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_GameObject: {fileID: 1590082956}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 55eac2c964adea542872d06b07e896de, type: 3}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -59177,10 +60997,14 @@ AudioSource:
   DopplerLevel: 1
   MinDistance: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   MaxDistance: 21.7
 =======
   MaxDistance: 50
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  MaxDistance: 21.7
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -59256,6 +61080,9 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1591243167
 GameObject:
   m_ObjectHideFlags: 0
@@ -59292,8 +61119,11 @@ Transform:
   m_Father: {fileID: 1714296542}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1595368029
 GameObject:
   m_ObjectHideFlags: 0
@@ -59477,6 +61307,9 @@ MeshFilter:
   m_GameObject: {fileID: 1596739789}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1597709953
 GameObject:
   m_ObjectHideFlags: 0
@@ -59604,8 +61437,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1602239101
 GameObject:
   m_ObjectHideFlags: 0
@@ -59754,6 +61590,7 @@ MeshFilter:
   m_GameObject: {fileID: 1603188955}
   m_Mesh: {fileID: 6953674110112844112, guid: 0173d34e2b8592d459a3a4df3f5c3ad7, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1603252637
 GameObject:
@@ -59815,6 +61652,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 2134898878}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &1606796610
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -60097,6 +61936,7 @@ MonoBehaviour:
   filesLocation: C:\Users\Carolin\Google Drive\XOrdner\maps\hybrid
   images: []
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1615464418
 GameObject:
@@ -60241,6 +62081,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1619257900
 GameObject:
   m_ObjectHideFlags: 0
@@ -60654,6 +62496,9 @@ Transform:
   m_PrefabInstance: {fileID: 1631240273}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1632886301
 GameObject:
   m_ObjectHideFlags: 0
@@ -60781,8 +62626,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &1639314761
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -61247,6 +63095,9 @@ Transform:
   m_PrefabInstance: {fileID: 1660496632}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1661676063
 GameObject:
   m_ObjectHideFlags: 0
@@ -61374,8 +63225,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1662141125
 GameObject:
   m_ObjectHideFlags: 0
@@ -61568,10 +63422,14 @@ RectTransform:
   m_GameObject: {fileID: 1668106357}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 0, y: 0, z: 0}
 =======
   m_LocalPosition: {x: 0, y: 0, z: -21}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
   m_Children:
   - {fileID: 868136843}
@@ -61581,10 +63439,14 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 0, y: 0}
 =======
   m_AnchoredPosition: {x: 0, y: 18}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_AnchoredPosition: {x: 0, y: 0}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_SizeDelta: {x: 100, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1668106359
@@ -61925,6 +63787,7 @@ MeshFilter:
   m_GameObject: {fileID: 1673641178}
   m_Mesh: {fileID: -8411013830098007818, guid: cea36ce3e74e8d24a858e5910228cb2f, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1675370012
 GameObject:
@@ -61986,6 +63849,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 1337761360}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1677425744
 GameObject:
   m_ObjectHideFlags: 0
@@ -62244,10 +64109,14 @@ Transform:
   m_PrefabInstance: {fileID: 1680118609}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1686429687
 =======
 --- !u!1 &1682443774
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!1 &1686429687
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -62255,6 +64124,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 1686429688}
   - component: {fileID: 1686429689}
@@ -62267,21 +64137,32 @@ GameObject:
   m_Layer: 0
   m_Name: F6.23.AI
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  - component: {fileID: 1686429688}
+  - component: {fileID: 1686429689}
+  m_Layer: 0
+  m_Name: Audio Source (44)
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1686429688
 =======
 --- !u!4 &1682443775
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!4 &1686429688
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1686429687}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -62297,12 +64178,17 @@ AudioSource:
   m_GameObject: {fileID: 1682443774}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 291, y: 2411, z: -752}
+=======
+  m_GameObject: {fileID: 1686429687}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 4330, z: -89}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 704643797}
+  m_Children: []
   m_Father: {fileID: 1927423992}
-  m_RootOrder: 55
+  m_RootOrder: 44
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!65 &1682443776
 BoxCollider:
 >>>>>>> parent of 405c45a (Initial commit)
@@ -62411,18 +64297,113 @@ BoxCollider:
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &1682443777
 MonoBehaviour:
+=======
+--- !u!82 &1686429689
+AudioSource:
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1682443774}
+  m_GameObject: {fileID: 1686429687}
   m_Enabled: 1
+<<<<<<< HEAD
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0fc7b50721e8a3d4ebc66ba757099a69, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   audioSource: {fileID: 704643799}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 74c842c1c7210934bb8e72f12b58adf4, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 21.7
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1.1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &1689974464
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -62764,6 +64745,7 @@ CanvasRenderer:
   m_GameObject: {fileID: 1696598478}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1696686808
 GameObject:
@@ -62825,6 +64807,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 220567762}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &1696737636
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -63015,6 +64999,7 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff52f2e161b2209448460862c33acc05, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1697841943
 GameObject:
@@ -63159,6 +65144,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &1708458445
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -63491,6 +65478,9 @@ Transform:
   m_PrefabInstance: {fileID: 1716334225}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1717776101
 GameObject:
   m_ObjectHideFlags: 0
@@ -63745,8 +65735,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1731108622
 GameObject:
   m_ObjectHideFlags: 0
@@ -63924,6 +65917,7 @@ MeshFilter:
   m_GameObject: {fileID: 1736757172}
   m_Mesh: {fileID: -5229079564680796373, guid: 0173d34e2b8592d459a3a4df3f5c3ad7, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1748357291
 GameObject:
@@ -64068,6 +66062,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1748990174
 GameObject:
   m_ObjectHideFlags: 0
@@ -64610,10 +66606,14 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 9
 =======
       value: 8
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+      value: 9
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 51a576e66ad703446bbf5b84532bcf4f,
         type: 3}
@@ -65395,6 +67395,9 @@ MeshFilter:
   m_GameObject: {fileID: 1785258498}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1786665027
 GameObject:
   m_ObjectHideFlags: 0
@@ -65522,8 +67525,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1788458341
 GameObject:
   m_ObjectHideFlags: 0
@@ -65730,6 +67736,7 @@ MeshFilter:
   m_GameObject: {fileID: 1799853214}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1800242956
 GameObject:
@@ -65791,6 +67798,8 @@ BoxCollider:
   m_Size: {x: 100, y: 100, z: 100}
   m_Center: {x: 0, y: 0, z: 0}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1804517682
 GameObject:
   m_ObjectHideFlags: 0
@@ -65888,6 +67897,9 @@ MeshFilter:
   m_GameObject: {fileID: 1804517682}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1807832634
 GameObject:
   m_ObjectHideFlags: 0
@@ -66015,8 +68027,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1809195349
 GameObject:
   m_ObjectHideFlags: 0
@@ -66099,6 +68114,9 @@ MeshFilter:
   m_GameObject: {fileID: 1809195349}
   m_Mesh: {fileID: 3435136633698641610, guid: cea36ce3e74e8d24a858e5910228cb2f, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1810886419
 GameObject:
   m_ObjectHideFlags: 0
@@ -66226,8 +68244,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1811599135
 GameObject:
   m_ObjectHideFlags: 0
@@ -66517,6 +68538,7 @@ Transform:
   m_PrefabInstance: {fileID: 1818394364}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1819080883
 GameObject:
@@ -66578,6 +68600,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 1615464421}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1819615952
 GameObject:
   m_ObjectHideFlags: 0
@@ -66774,6 +68798,7 @@ Transform:
   m_PrefabInstance: {fileID: 1824600441}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1825078187
 GameObject:
@@ -66835,6 +68860,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 1044948260}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1826643368
 GameObject:
   m_ObjectHideFlags: 0
@@ -67808,6 +69835,9 @@ Transform:
   m_PrefabInstance: {fileID: 886270303}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1864281999
 GameObject:
   m_ObjectHideFlags: 0
@@ -67935,8 +69965,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!114 &1869476457
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -68751,6 +70784,7 @@ Transform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1889088434
 GameObject:
@@ -68812,6 +70846,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 1480944317}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1891265311
 GameObject:
   m_ObjectHideFlags: 0
@@ -69126,6 +71162,7 @@ Transform:
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1896516981
 GameObject:
@@ -69270,6 +71307,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1896655191
 GameObject:
   m_ObjectHideFlags: 0
@@ -69414,6 +71453,9 @@ Transform:
   m_PrefabInstance: {fileID: 1898289546}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1899820779
 GameObject:
   m_ObjectHideFlags: 0
@@ -69541,8 +71583,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1901910579
 GameObject:
   m_ObjectHideFlags: 0
@@ -69889,6 +71934,9 @@ Transform:
   m_PrefabInstance: {fileID: 1905548443}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1908602625
 GameObject:
   m_ObjectHideFlags: 0
@@ -70016,8 +72064,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1911750838
 GameObject:
   m_ObjectHideFlags: 0
@@ -70826,9 +72877,13 @@ GameObject:
   m_Component:
   - component: {fileID: 1927423992}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 1927423994}
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  - component: {fileID: 1927423994}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   - component: {fileID: 1927423993}
   m_Layer: 0
   m_Name: Audio
@@ -70845,6 +72900,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1927423991}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_LocalPosition: {x: 0, y: -330.21, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -70971,6 +73027,71 @@ Transform:
   - {fileID: 1682443775}
   - {fileID: 109012577}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_LocalPosition: {x: 0, y: -330.21, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 445093434}
+  - {fileID: 925231214}
+  - {fileID: 1810886420}
+  - {fileID: 1051115471}
+  - {fileID: 1026709395}
+  - {fileID: 1064452642}
+  - {fileID: 397279741}
+  - {fileID: 787556930}
+  - {fileID: 1908602626}
+  - {fileID: 753935278}
+  - {fileID: 1211953202}
+  - {fileID: 945638367}
+  - {fileID: 1244867639}
+  - {fileID: 1590082957}
+  - {fileID: 558819209}
+  - {fileID: 1454199064}
+  - {fileID: 807483299}
+  - {fileID: 1899820780}
+  - {fileID: 726946380}
+  - {fileID: 1730090995}
+  - {fileID: 652369184}
+  - {fileID: 31313562}
+  - {fileID: 467820612}
+  - {fileID: 910744526}
+  - {fileID: 1717776102}
+  - {fileID: 908340313}
+  - {fileID: 644176826}
+  - {fileID: 375475867}
+  - {fileID: 689819403}
+  - {fileID: 529182052}
+  - {fileID: 878444390}
+  - {fileID: 1786665028}
+  - {fileID: 1661676064}
+  - {fileID: 820765074}
+  - {fileID: 723949609}
+  - {fileID: 1546038398}
+  - {fileID: 843102583}
+  - {fileID: 1632886302}
+  - {fileID: 1044784329}
+  - {fileID: 1991641280}
+  - {fileID: 403638566}
+  - {fileID: 306813159}
+  - {fileID: 1407193092}
+  - {fileID: 1807832635}
+  - {fileID: 1686429688}
+  - {fileID: 1597709954}
+  - {fileID: 1243799788}
+  - {fileID: 1864282000}
+  - {fileID: 2040583107}
+  - {fileID: 369024812}
+  - {fileID: 885314569}
+  - {fileID: 283736446}
+  - {fileID: 713168979}
+  - {fileID: 1168915737}
+  - {fileID: 540406248}
+  - {fileID: 638343402}
+  - {fileID: 1552056799}
+  - {fileID: 286384658}
+  - {fileID: 988181980}
+  - {fileID: 236101264}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_Father: {fileID: 1395729894}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -70985,6 +73106,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -71005,6 +73127,23 @@ MonoBehaviour:
   m_Size: {x: 50, y: 50, z: 50}
   m_Center: {x: 0, y: 0, z: 0}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1927423994
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1927423991}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fc7b50721e8a3d4ebc66ba757099a69, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioSource: {fileID: 445093435}
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!4 &1928287690 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7451315114512907890, guid: ad125f803a2dad14db9c59d5161e163d,
@@ -73145,6 +75284,7 @@ Transform:
   m_PrefabInstance: {fileID: 1977564172}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1985300311
 GameObject:
@@ -73206,6 +75346,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 383964166}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1990800129
 GameObject:
   m_ObjectHideFlags: 0
@@ -73289,6 +75431,9 @@ MeshFilter:
   m_GameObject: {fileID: 1990800129}
   m_Mesh: {fileID: -5495902117074765545, guid: d0a79518e717d5b48b2a582624c692ea, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &1991641279
 GameObject:
   m_ObjectHideFlags: 0
@@ -73416,8 +75561,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &2002125724
 GameObject:
   m_ObjectHideFlags: 0
@@ -73858,6 +76006,7 @@ Transform:
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &2017755571
 GameObject:
@@ -73919,6 +76068,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 779397427}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &2019965589
 GameObject:
   m_ObjectHideFlags: 0
@@ -74014,6 +76165,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2019965589}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 --- !u!1 &2020679504
@@ -74159,6 +76311,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &2022829182
 GameObject:
   m_ObjectHideFlags: 0
@@ -74437,6 +76591,7 @@ Transform:
   m_PrefabInstance: {fileID: 2025876755}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &2031638878
 GameObject:
@@ -74581,6 +76736,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &2037099772
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -74818,10 +76975,14 @@ Transform:
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &2040583106
 =======
 --- !u!1 &2039272526
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!1 &2040583106
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -74829,6 +76990,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 2040583107}
   - component: {fileID: 2040583108}
@@ -74841,21 +77003,32 @@ GameObject:
   m_Layer: 0
   m_Name: F5.3.D
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  - component: {fileID: 2040583107}
+  - component: {fileID: 2040583108}
+  m_Layer: 0
+  m_Name: Audio Source (48)
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &2040583107
 =======
 --- !u!4 &2039272527
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+--- !u!4 &2040583107
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 2040583106}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -75559,92 +77732,27 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 294502391}
-  m_Father: {fileID: 1927423992}
-  m_RootOrder: 52
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!65 &2053491212
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2053491210}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 100, y: 100, z: 100}
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &2053491213
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2053491210}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0fc7b50721e8a3d4ebc66ba757099a69, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  audioSource: {fileID: 294502393}
---- !u!1 &2054356881
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2054356882}
-  - component: {fileID: 2054356884}
-  - component: {fileID: 2054356883}
-  m_Layer: 0
-  m_Name: Audio Source
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &2054356882
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2054356881}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+=======
+  m_GameObject: {fileID: 2040583106}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 27, y: 4321, z: 13}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 1385638093}
-  m_RootOrder: 0
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
+  m_Father: {fileID: 1927423992}
+  m_RootOrder: 48
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!136 &2054356883
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2054356881}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 50
-  m_Height: 50
-  m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!82 &2054356884
+--- !u!82 &2040583108
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2054356881}
+  m_GameObject: {fileID: 2040583106}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 3e2fde096d4c2184cafa2d373d4c4a6b, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 8ae1b1378c00c0640811cd00c5823b49, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -75655,8 +77763,12 @@ AudioSource:
   Priority: 128
   DopplerLevel: 1
   MinDistance: 1
+<<<<<<< HEAD
   MaxDistance: 50
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+  MaxDistance: 21.7
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -75732,6 +77844,9 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &2041951022
 GameObject:
   m_ObjectHideFlags: 0
@@ -76004,8 +78119,11 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2044919561}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &2055691864
 GameObject:
   m_ObjectHideFlags: 0
@@ -76672,6 +78790,7 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2059c4a288461c94f81871ed399b3315, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &2064060569
 GameObject:
@@ -76733,6 +78852,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 1697841946}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &2068097413
 GameObject:
   m_ObjectHideFlags: 0
@@ -77555,6 +79676,7 @@ Transform:
   m_PrefabInstance: {fileID: 2085016663}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &2085076805
 GameObject:
@@ -77616,6 +79738,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 366231745}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1001 &2087214928
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -77853,6 +79977,7 @@ Transform:
   m_PrefabInstance: {fileID: 2089272081}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &2091057412
 GameObject:
@@ -77914,6 +80039,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 1189568062}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &2097988148
 GameObject:
   m_ObjectHideFlags: 0
@@ -78173,6 +80300,7 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff52f2e161b2209448460862c33acc05, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &2104283455
 GameObject:
@@ -78317,6 +80445,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &2111821413
 GameObject:
   m_ObjectHideFlags: 0
@@ -78657,6 +80787,7 @@ Transform:
   m_PrefabInstance: {fileID: 2116771193}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &2118587008
 GameObject:
@@ -78718,6 +80849,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 2142144638}
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &2119763427
 GameObject:
   m_ObjectHideFlags: 0
@@ -79190,6 +81323,7 @@ MeshFilter:
   m_GameObject: {fileID: 2131645693}
   m_Mesh: {fileID: -7355886932576298820, guid: 0173d34e2b8592d459a3a4df3f5c3ad7, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &2134898875
 GameObject:
@@ -79334,6 +81468,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &2136414206
 GameObject:
   m_ObjectHideFlags: 0
@@ -79491,6 +81627,7 @@ Transform:
   m_PrefabInstance: {fileID: 2137324262}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &2142144635
 GameObject:
@@ -79635,6 +81772,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 >>>>>>> parent of 405c45a (Initial commit)
+=======
+>>>>>>> parent of d8e755e (organizing Audiofiles in  in empty in order)
 --- !u!1 &2143920258
 GameObject:
   m_ObjectHideFlags: 0
