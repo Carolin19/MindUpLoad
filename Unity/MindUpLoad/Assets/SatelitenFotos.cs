@@ -84,7 +84,7 @@ private void LoadTextures()
     {
         Vector3 imagePosition = new Vector3(Random.Range(50, 0), Random.Range(400, 0), Random.Range(15, 0));
         rawImage.transform.localPosition = imagePosition;
-        rawImage.transform.DOScale(new Vector3(0.025f, 0.025f, 0.025f), 0);
+        rawImage.transform.DOScale(new Vector3(0.035f, 0.035f, 0.035f), 0);
         rawImage.transform.DOLocalRotate(new Vector3(0, 0, 90), 0);
 
     }
