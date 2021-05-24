@@ -85,9 +85,9 @@ public class ImgLoadStaticPlaceOfBirth : MonoBehaviour
         }
         foreach (RawImage rawImage in rawImageList)
         {
-            Vector3 imagePosition = new Vector3(Random.Range(50, 0), Random.Range(400, 0), Random.Range(10, 0));
+            Vector3 imagePosition = new Vector3(Random.Range(400, 0), Random.Range(2000, 0), Random.Range(50, 0));
             rawImage.transform.localPosition = imagePosition;
-            rawImage.transform.DOScale(new Vector3(0.030f, 0.030f, 0.030f), 0);
+            rawImage.transform.DOScale(new Vector3(0.080f, 0.080f, 0.080f), 0);
             rawImage.transform.DOLocalRotate(new Vector3(0, 0, 90), 0);
 
         }

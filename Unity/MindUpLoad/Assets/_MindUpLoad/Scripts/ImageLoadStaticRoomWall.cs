@@ -87,7 +87,7 @@ public class ImageLoadStaticRoomWall : MonoBehaviour
         {
             Vector3 imagePosition = new Vector3(Random.Range(800, 0), Random.Range(800, 0), Random.Range(400, 0));
             rawImage.transform.localPosition = imagePosition;
-            rawImage.transform.DOScale(new Vector3(0.15f, 0.15f, 0.15f), 0);
+            rawImage.transform.DOScale(new Vector3(0.25f, 0.25f, 0.25f), 0);
             rawImage.transform.DOLocalRotate(new Vector3(0, 0, 90), 0);
 
         }

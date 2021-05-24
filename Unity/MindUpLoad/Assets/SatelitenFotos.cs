@@ -14,7 +14,7 @@ public GameObject imageContainer;
 private List<RawImage> rawImageList;
 
 
-public string filesLocation = @"C:\Users\Carolin\Google Drive\XOrdner\maps\hybrid";
+public string filesLocation = @"C:\Users\Carolin\Google Drive\XOrdner\maps\satellite";
 public List<Texture2D> images = new List<Texture2D>();
 
 private object texture;
@@ -27,7 +27,7 @@ public IEnumerator Start()
     yield return StartCoroutine(
 
     "LoadAll",
-        value: Directory.GetFiles(filesLocation, "*.jpg", SearchOption.AllDirectories)
+        value: Directory.GetFiles(filesLocation, "*.png", SearchOption.AllDirectories)
     );
 
 
@@ -84,7 +84,7 @@ private void LoadTextures()
     {
         Vector3 imagePosition = new Vector3(Random.Range(50, 0), Random.Range(400, 0), Random.Range(15, 0));
         rawImage.transform.localPosition = imagePosition;
-        rawImage.transform.DOScale(new Vector3(0.035f, 0.035f, 0.035f), 0);
+        rawImage.transform.DOScale(new Vector3(0.35f, 0.35f, 0.35f), 0);
         rawImage.transform.DOLocalRotate(new Vector3(0, 0, 90), 0);
 
     }
