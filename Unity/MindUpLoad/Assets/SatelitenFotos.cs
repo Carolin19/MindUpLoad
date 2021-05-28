@@ -27,7 +27,7 @@ public IEnumerator Start()
     yield return StartCoroutine(
 
     "LoadAll",
-        value: Directory.GetFiles(filesLocation, "*.png", SearchOption.AllDirectories)
+        value: Directory.GetFiles(filesLocation, "*.jpg", SearchOption.AllDirectories)
     );
 
 
@@ -74,7 +74,7 @@ private void LoadTextures()
 
     {
 
-        RawImage newImageInstance = Instantiate(rawImagePrefab, new Vector3(0, 0, 0), Quaternion.Euler(new Vector3(0, 0, 0)), imageContainer.transform) as RawImage;
+        RawImage newImageInstance = Instantiate(rawImagePrefab, new Vector3(0, 0, 0), Quaternion.Euler(new Vector3( 0, 0, 0)), imageContainer.transform) as RawImage;
         newImageInstance.texture = texture;
         newImageInstance.SetNativeSize();
         rawImageList.Add(newImageInstance);
@@ -82,9 +82,9 @@ private void LoadTextures()
     }
     foreach (RawImage rawImage in rawImageList)
     {
-        Vector3 imagePosition = new Vector3(Random.Range(50, 0), Random.Range(400, 0), Random.Range(15, 0));
+        Vector3 imagePosition = new Vector3(Random.Range(800, -200), Random.Range(1000, -200), Random.Range(800, 0));
         rawImage.transform.localPosition = imagePosition;
-        rawImage.transform.DOScale(new Vector3(0.35f, 0.35f, 0.35f), 0);
+        rawImage.transform.DOScale(new Vector3(0.25f, 0.25f, 0.25f), 0);
         rawImage.transform.DOLocalRotate(new Vector3(0, 0, 90), 0);
 
     }
