@@ -49,9 +49,9 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 5da468cccf8ead54992c6231788b60f7, type: 3}
+        m_Texture: {fileID: 2800000, guid: ae24b4f7acabd6147ad0af8804a0a634, type: 3}
         m_Scale: {x: 0.5, y: 0.5}
-        m_Offset: {x: 0, y: 0}
+        m_Offset: {x: 1.28, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -87,7 +87,7 @@ Material:
     - _DstBlend: 0
     - _EdgeWidth: 0.05
     - _EnvironmentReflections: 1
-    - _FresnelPower: 2.2
+    - _FresnelPower: 0.06
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
@@ -119,3 +119,4 @@ Material:
     - _SnowColor: {r: 1, g: 1, b: 1, a: 1}
     - _SnowDirection: {r: 0, g: 1, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+  m_BuildTextureStacks: []

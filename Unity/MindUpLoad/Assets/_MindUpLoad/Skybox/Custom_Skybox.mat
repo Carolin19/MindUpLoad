@@ -21,13 +21,13 @@ Material:
     m_TexEnvs: []
     m_Floats:
     - _AtmosphereThickness: 0.47
-    - _Exposure: 7.69
+    - _Exposure: 0
     - _SunDisk: 0
     - _SunSize: 0
     - _SunSizeConvergence: 5
     m_Colors:
     - _GroundColor: {r: 0, g: 0, b: 0, a: 1}
-    - _SkyTint: {r: 0.008664548, g: 0.00061635085, b: 0.0139999995, a: 1}
+    - _SkyTint: {r: 0, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &4593344008926666500
 MonoBehaviour:

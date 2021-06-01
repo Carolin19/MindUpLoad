@@ -9,7 +9,7 @@ using DG.Tweening;
 
 public class ImageLoadStaticRoomWall : MonoBehaviour
 {
-   
+
 
     private string myFile;
     public RawImage rawImagePrefab;
@@ -76,19 +76,28 @@ public class ImageLoadStaticRoomWall : MonoBehaviour
         foreach (Texture2D texture in images)
 
         {
-          
-            RawImage newImageInstance = Instantiate(rawImagePrefab, new Vector3 (0,0,0), Quaternion.Euler(new Vector3(0, 0, 0)), imageContainer.transform) as RawImage;
+            Vector3 imagePosition = new Vector3(Random.Range(-200, 300), Random.Range(-664, 600), Random.Range(110, 45));
+            RawImage newImageInstance = Instantiate(rawImagePrefab, new Vector3(0, 0, 0), Quaternion.Euler(new Vector3(0, 0, 0)), imageContainer.transform) as RawImage;
             newImageInstance.texture = texture;
             newImageInstance.SetNativeSize();
             rawImageList.Add(newImageInstance);
-          
+
         }
+        AnimateTextures();
+    }
+
+    private void AnimateTextures()
+    {
+
+
         foreach (RawImage rawImage in rawImageList)
         {
-            Vector3 imagePosition = new Vector3(Random.Range(800, -100), Random.Range(800, -400), Random.Range(400, 0));
-            rawImage.transform.localPosition = imagePosition;
-            rawImage.transform.DOScale(new Vector3(0.18f, 0.18f, 0.18f), 0);
+            rawImage.transform.DOLocalMove(new Vector3(0, -60, Random.Range(0, 710)), 5f);
+            rawImage.transform.DOLocalMoveX(Random.Range(2000, -1000), 5f).SetDelay(Random.Range(30, 120f));
+            rawImage.transform.DOLocalMoveY(Random.Range(1500, -100), 5f).SetDelay(Random.Range(0, 120f));
+            rawImage.transform.DOScale(new Vector3(0.50f, 0.50f, 0.50f), 0);
             rawImage.transform.DOLocalRotate(new Vector3(0, 0, 90), 0);
+            TweenParams tParms = new TweenParams().SetLoops(-1).SetEase(Ease.OutElastic);
 
         }
     }

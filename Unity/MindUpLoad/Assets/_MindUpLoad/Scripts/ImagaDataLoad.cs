@@ -92,8 +92,8 @@ public class ImagaDataLoad : MonoBehaviour
         {
 
            rawImage.transform.DOLocalMove(new Vector3 (0, -60, Random.Range(0,710)),0f);
-            rawImage.transform.DOLocalMoveY(Random.Range(0, -10),0.8f).SetDelay(Random.Range(0,2.5f));
-            rawImage.transform.DOScale(new Vector3(0.1f,0.1f,0.1f),0);
+            rawImage.transform.DOLocalMoveY(Random.Range(50, -10),0.8f).SetDelay(Random.Range(0,2.5f));
+            rawImage.transform.DOScale(new Vector3(0.50f,0.50f,0.50f),0);
 
             rawImage.transform.DORotate(new Vector3(-90, 90, 0), 0);
             rawImage.transform.DOShakePosition(60, new Vector3 (0.05f,0.05f,0.05f));
