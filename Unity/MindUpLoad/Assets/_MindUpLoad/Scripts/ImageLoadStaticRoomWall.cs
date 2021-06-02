@@ -87,11 +87,11 @@ public class ImageLoadStaticRoomWall : MonoBehaviour
 
         foreach (RawImage rawImage in rawImageList)
         {
-            Vector3 randomImagePosition = new Vector3(Random.Range(1000, -1000), Random.Range(1000, -1000), Random.Range(0, 40));
+            Vector3 randomImagePosition = new Vector3(Random.Range(4000, -1000), Random.Range(3000, -1000), Random.Range(0, 100));
             rawImage.transform.DOLocalMove(randomImagePosition, 0f);
 
 
-            rawImage.transform.DOLocalMove(new Vector3(randomImagePosition.x - Random.Range(-50, 50), randomImagePosition.y - Random.Range(-50, 50), randomImagePosition.z - Random.Range(-50, 50)), 4f).SetLoops(-1, LoopType.Yoyo).SetEase(Ease.InOutCubic);
+            rawImage.transform.DOLocalMove(new Vector3(randomImagePosition.x - Random.Range(-100, 100), randomImagePosition.y - Random.Range(-100, 100), randomImagePosition.z - Random.Range(-200, 200)), 10f).SetLoops(-1, LoopType.Yoyo).SetEase(Ease.InOutCubic);
 
               
 
