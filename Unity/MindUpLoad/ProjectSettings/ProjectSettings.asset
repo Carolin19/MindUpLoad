@@ -131,9 +131,10 @@ PlayerSettings:
   preloadedAssets:
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 687759637f843754781781ec2d01fe5e, type: 2}
   - {fileID: -2176332042590186890, guid: 3c4814b4a8fe45646a4ccf44f4a65205, type: 2}
   - {fileID: 11400000, guid: fea2d459386608842b5b72625b4f7a7d, type: 2}
-  - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -152,6 +153,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.DefaultCompany.MUL_URP01
+    Standalone: com.DefaultCompany.MULURP01
   buildNumber:
     Standalone: 0
     iPhone: 0
@@ -792,7 +794,7 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 1
+  activeInputHandler: 2
   cloudProjectId: 
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
