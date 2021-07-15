@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_MindUpLoad/Scenes/TestMUL.unity
-    guid: 0bdde75daa0594646ae04b30f0a27f93
+    path: Assets/_MindUpLoad/Scenes/EMIS1607.unity
+    guid: eb610eacbfef84b459696357caa2e9ce
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: fea2d459386608842b5b72625b4f7a7d,
       type: 2}
